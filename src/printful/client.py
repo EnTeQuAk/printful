@@ -52,8 +52,6 @@ class Client(requests.Session):
         self.api_key = api_key
 
     def request(self, method, url, *args, **kwargs):
-        data = kwargs.pop('data', {})
-
         headers = {
             'User-Agent': Client.USER_AGENT,
             'Content-Type': 'application/json',
