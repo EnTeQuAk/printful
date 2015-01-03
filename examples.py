@@ -1,3 +1,4 @@
+import json
 from pprint import pprint
 
 from printful import Client, PrintfulApiException
@@ -8,74 +9,54 @@ client = Client(key)
 
 try:
     #Get information about the store
-    pprint(client.get('store'))
+    # pprint(client.get('store').json())
 
-    # #Get product list
-    # pprint(pf.get('products'))
+    # # #Get product list
+    # pprint(client.get('products').json())
 
-    # #Get variants for product 10
-    # pprint(pf.get('products/10'))
+    # # #Get variants for product 10
+    # pprint(client.get('products/10').json())
 
     # #Get information about Variant 1007
-    # pprint(pf.get('products/variant/1007'))
+    # pprint(client.get('products/variant/1007'))
 
     # #Select 10 latest orders and get the total number of orders
-    # pprint(pf.get('orders',{'limit': 10}))
-    # print("Total orders available: %i" % pf.item_count())
+    # pprint(client.get('orders',{'limit': 10}))
+    # print('Total orders available: %i' % client.item_count())
 
     # #Select order with ID 12345 (Replace with your order's ID)
-    # #pprint(pf.get('orders/12345'))
+    # #pprint(client.get('orders/12345'))
 
     # #Select order with External ID 9900999 (Replace with your order's External ID)
-    # #pprint(pf.get('orders/@9900999'))
+    # #pprint(client.get('orders/@9900999'))
 
     # #Confirm order with ID 12345 (Replace with your order's ID)
-    # #pprint(pf.post('orders/12345/confirm'))
+    # #pprint(client.post('orders/12345/confirm'))
 
     # #Cancel order with ID 12345 (Replace with your order's ID)
-    # #pprint(pf.delete('orders/12345'))
+    # #pprint(client.delete('orders/12345'))
 
     # #Create an order
-    # pprint(pf.post('orders',
-    #      {
-    #          'recipient':  {
-    #              'name': 'John Doe',
-    #              'address1': '172 W Providencia Ave #105',
-    #              'city': 'Burbank',
-    #              'state_code': 'CA',
-    #              'country_code': 'US',
-    #              'zip': '91502'
-    #          },
-    #          'items': [
-    #              {
-    #                  'variant_id': 1, #Small poster
-    #                  'name': 'Niagara Falls poster', #Display name
-    #                  'retail_price': '19.99', #Retail price for packing slip
-    #                  'quantity': 1,
-    #                  'files': [
-    #                      {'url': 'http://example.com/files/posters/poster_1.jpg'}
-    #                  ]
-    #              },
-    #              {
-    #                 'variant_id': 1118,
-    #                 'quantity': 2,
-    #                 'name': 'Grand Canyon T-Shirt', #Display name
-    #                 'retail_price': '29.99', #Retail price for packing slip
-    #                 'files': [
-    #                      {'url': 'http://example.com/files/tshirts/shirt_front.ai'}, #Front print
-    #                      {'type': 'back', 'url': 'http://example.com/files/tshirts/shirt_back.ai'}, #Back print
-    #                      {'type': 'preview', 'url': 'http://example.com/files/tshirts/shirt_mockup.jpg'} #Mockup image
-    #                 ],
-    #                 'options': [ #Additional options
-    #                      {'id': 'remove_labels', 'value': True}
-    #                 ]
-    #              }
-    #          ]
-    #       }
-    #  ))
+    pprint(client.post('orders', data=json.dumps({
+        'recipient': {
+            'name': 'John Doe',
+            'address1': '172 W Providencia Ave #105',
+            'city': 'Burbank',
+            'state_code': 'CA',
+            'country_code': 'US',
+            'zip': '91502'
+        },
+        'items': [{
+            'variant_id': 1,
+            'quantity': 1,
+            'files': [{
+                'url': 'http://example.com/files/posters/poster_1.jpg'
+            }]
+        }]
+    })).json())
 
     #Create an order and confirm immediately
-#     pprint(pf.post('orders',
+#     pprint(client.post('orders',
 #         {
 #             'recipient':  {
 #                 'name': 'John Doe',
@@ -102,7 +83,7 @@ try:
 
 
     #Calculate shipping rates for an order
-#     pprint(pf.post('shipping/rates',{
+#     pprint(client.post('shipping/rates',{
 #         'recipient': {
 #             'country_code': 'US',
 #             'state_code': 'CA'
