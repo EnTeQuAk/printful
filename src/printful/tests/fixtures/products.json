@@ -1,0 +1,3229 @@
+{
+  "code": 200,
+  "result": [
+    {
+      "files": [
+        {
+          "id": "default",
+          "additional_price": null,
+          "title": "Print file"
+        },
+        {
+          "id": "preview",
+          "additional_price": null,
+          "title": "Mockup"
+        }
+      ],
+      "type": "POSTER",
+      "model": "Poster",
+      "id": 1,
+      "image": "https://d1yg28hrivmbqm.cloudfront.net/products/poster_18x24.jpg",
+      "brand": null,
+      "variant_count": 9,
+      "options": []
+    },
+    {
+      "files": [
+        {
+          "id": "default",
+          "additional_price": null,
+          "title": "Print file"
+        },
+        {
+          "id": "preview",
+          "additional_price": null,
+          "title": "Mockup"
+        }
+      ],
+      "type": "FRAMED-POSTER",
+      "model": "Framed Poster",
+      "id": 2,
+      "image": "https://d1yg28hrivmbqm.cloudfront.net/products/framed_poster_18x24.jpg",
+      "brand": null,
+      "variant_count": 11,
+      "options": []
+    },
+    {
+      "files": [
+        {
+          "id": "default",
+          "additional_price": null,
+          "title": "Print file"
+        },
+        {
+          "id": "preview",
+          "additional_price": null,
+          "title": "Mockup"
+        }
+      ],
+      "type": "CANVAS",
+      "model": "Canvas",
+      "id": 3,
+      "image": "https://d1yg28hrivmbqm.cloudfront.net/products/canvas_16x20.jpg",
+      "brand": null,
+      "variant_count": 6,
+      "options": []
+    },
+    {
+      "files": [
+        {
+          "id": "default",
+          "additional_price": null,
+          "title": "Print file"
+        },
+        {
+          "id": "preview",
+          "additional_price": null,
+          "title": "Mockup"
+        }
+      ],
+      "type": "FRAMED-PRINT",
+      "model": "Framed Canvas Print",
+      "id": 4,
+      "image": "https://d1yg28hrivmbqm.cloudfront.net/products/framed_print_9x12.jpg",
+      "brand": null,
+      "variant_count": 1,
+      "options": []
+    },
+    {
+      "files": [
+        {
+          "id": "default",
+          "additional_price": null,
+          "title": "Front print"
+        },
+        {
+          "id": "back",
+          "additional_price": "7.00",
+          "title": "Back print"
+        },
+        {
+          "id": "label",
+          "additional_price": "3.00",
+          "title": "Outside label"
+        },
+        {
+          "id": "preview",
+          "additional_price": null,
+          "title": "Mockup"
+        }
+      ],
+      "type": "T-SHIRT",
+      "model": "2001 Fine Jersey Short Sleeve Men T-Shirt",
+      "id": 5,
+      "image": "https://d1yg28hrivmbqm.cloudfront.net/products/2001_AA_tshirt.jpg",
+      "brand": "American Apparel",
+      "variant_count": 277,
+      "options": []
+    },
+    {
+      "files": [
+        {
+          "id": "default",
+          "additional_price": null,
+          "title": "Front print"
+        },
+        {
+          "id": "back",
+          "additional_price": "7.00",
+          "title": "Back print"
+        },
+        {
+          "id": "label",
+          "additional_price": "3.00",
+          "title": "Outside label"
+        },
+        {
+          "id": "preview",
+          "additional_price": null,
+          "title": "Mockup"
+        }
+      ],
+      "type": "T-SHIRT",
+      "model": "2102 Fine Jersey Short Sleeve Women T-Shirt",
+      "id": 6,
+      "image": "https://d1yg28hrivmbqm.cloudfront.net/products/2102_AA_tshirt.jpg",
+      "brand": "American Apparel",
+      "variant_count": 163,
+      "options": []
+    },
+    {
+      "files": [
+        {
+          "id": "default",
+          "additional_price": null,
+          "title": "Front print"
+        },
+        {
+          "id": "back",
+          "additional_price": "7.00",
+          "title": "Back print"
+        },
+        {
+          "id": "label",
+          "additional_price": "3.00",
+          "title": "Outside label"
+        },
+        {
+          "id": "preview",
+          "additional_price": null,
+          "title": "Mockup"
+        }
+      ],
+      "type": "T-SHIRT",
+      "model": "2001ORG Organic Fine Jersey Short Sleeve Men T-Shirt",
+      "id": 7,
+      "image": "https://d1yg28hrivmbqm.cloudfront.net/products/2001org_AA_tshirt.jpg",
+      "brand": "American Apparel",
+      "variant_count": 40,
+      "options": []
+    },
+    {
+      "files": [
+        {
+          "id": "default",
+          "additional_price": null,
+          "title": "Front print"
+        },
+        {
+          "id": "back",
+          "additional_price": "7.00",
+          "title": "Back print"
+        },
+        {
+          "id": "label",
+          "additional_price": "3.00",
+          "title": "Outside label"
+        },
+        {
+          "id": "preview",
+          "additional_price": null,
+          "title": "Mockup"
+        }
+      ],
+      "type": "T-SHIRT",
+      "model": "2102ORG Organic Fine Jersey Short Sleeve Women T-Shirt",
+      "id": 8,
+      "image": "https://d1yg28hrivmbqm.cloudfront.net/products/2102org_AA_tshirt.jpg",
+      "brand": "American Apparel",
+      "variant_count": 40,
+      "options": []
+    },
+    {
+      "files": [
+        {
+          "id": "default",
+          "additional_price": null,
+          "title": "Front print"
+        },
+        {
+          "id": "back",
+          "additional_price": "7.00",
+          "title": "Back print"
+        },
+        {
+          "id": "label",
+          "additional_price": "3.00",
+          "title": "Outside label"
+        },
+        {
+          "id": "preview",
+          "additional_price": null,
+          "title": "Mockup"
+        }
+      ],
+      "type": "T-SHIRT",
+      "model": "2456 Fine Jersey Short Sleeve V-Neck",
+      "id": 9,
+      "image": "https://d1yg28hrivmbqm.cloudfront.net/products/2456_AA_vneck.jpg",
+      "brand": "American Apparel",
+      "variant_count": 120,
+      "options": []
+    },
+    {
+      "files": [
+        {
+          "id": "default",
+          "additional_price": null,
+          "title": "Front print"
+        },
+        {
+          "id": "back",
+          "additional_price": "7.00",
+          "title": "Back print"
+        },
+        {
+          "id": "label",
+          "additional_price": "3.00",
+          "title": "Outside label"
+        },
+        {
+          "id": "preview",
+          "additional_price": null,
+          "title": "Mockup"
+        }
+      ],
+      "type": "T-SHIRT",
+      "model": "2007 Fine Jersey Long Sleeve T-Shirt",
+      "id": 10,
+      "image": "https://d1yg28hrivmbqm.cloudfront.net/products/2007_AA_tshirt.jpg",
+      "brand": "American Apparel",
+      "variant_count": 40,
+      "options": []
+    },
+    {
+      "files": [
+        {
+          "id": "default",
+          "additional_price": null,
+          "title": "Front print"
+        },
+        {
+          "id": "back",
+          "additional_price": "7.00",
+          "title": "Back print"
+        },
+        {
+          "id": "label",
+          "additional_price": "3.00",
+          "title": "Outside label"
+        },
+        {
+          "id": "preview",
+          "additional_price": null,
+          "title": "Mockup"
+        }
+      ],
+      "type": "T-SHIRT",
+      "model": "2408 Fine Jersey Tank Top Unisex",
+      "id": 11,
+      "image": "https://d1yg28hrivmbqm.cloudfront.net/products/2408_AA_tank_top.jpg",
+      "brand": "American Apparel",
+      "variant_count": 80,
+      "options": []
+    },
+    {
+      "files": [
+        {
+          "id": "default",
+          "additional_price": null,
+          "title": "Front print"
+        },
+        {
+          "id": "back",
+          "additional_price": "7.00",
+          "title": "Back print"
+        },
+        {
+          "id": "label",
+          "additional_price": "3.00",
+          "title": "Outside label"
+        },
+        {
+          "id": "preview",
+          "additional_price": null,
+          "title": "Mockup"
+        }
+      ],
+      "type": "T-SHIRT",
+      "model": "64000 Unisex Softstyle T-Shirt",
+      "id": 12,
+      "image": "https://d1yg28hrivmbqm.cloudfront.net/products/12/product.jpg",
+      "brand": "Gildan",
+      "variant_count": 110,
+      "options": []
+    },
+    {
+      "files": [
+        {
+          "id": "default",
+          "additional_price": null,
+          "title": "Front print"
+        },
+        {
+          "id": "back",
+          "additional_price": "7.00",
+          "title": "Back print"
+        },
+        {
+          "id": "label",
+          "additional_price": "3.00",
+          "title": "Outside label"
+        },
+        {
+          "id": "preview",
+          "additional_price": null,
+          "title": "Mockup"
+        }
+      ],
+      "type": "T-SHIRT",
+      "model": "2200 Ultra Cotton Tank Top",
+      "id": 13,
+      "image": "https://d1yg28hrivmbqm.cloudfront.net/products/13/product.jpg",
+      "brand": "Gildan",
+      "variant_count": 55,
+      "options": []
+    },
+    {
+      "files": [
+        {
+          "id": "default",
+          "additional_price": null,
+          "title": "Front print"
+        },
+        {
+          "id": "back",
+          "additional_price": "7.00",
+          "title": "Back print"
+        },
+        {
+          "id": "label",
+          "additional_price": "3.00",
+          "title": "Inside label"
+        },
+        {
+          "id": "preview",
+          "additional_price": null,
+          "title": "Mockup"
+        }
+      ],
+      "type": "T-SHIRT",
+      "model": "1070 Short Sleeve Men T-Shirt with Tear Away Label",
+      "id": 14,
+      "image": "https://d1yg28hrivmbqm.cloudfront.net/products/14/product.jpg",
+      "brand": "Alternative",
+      "variant_count": 80,
+      "options": [
+        {
+          "id": "remove_labels",
+          "type": "bool",
+          "additional_price": null,
+          "title": "Tear off labels",
+          "values": null
+        }
+      ]
+    },
+    {
+      "files": [
+        {
+          "id": "default",
+          "additional_price": null,
+          "title": "Front print"
+        },
+        {
+          "id": "back",
+          "additional_price": "7.00",
+          "title": "Back print"
+        },
+        {
+          "id": "label",
+          "additional_price": "3.00",
+          "title": "Inside label"
+        },
+        {
+          "id": "preview",
+          "additional_price": null,
+          "title": "Mockup"
+        }
+      ],
+      "type": "T-SHIRT",
+      "model": "1072 Short Sleeve Women T-Shirt with Tear Away Label",
+      "id": 15,
+      "image": "https://d1yg28hrivmbqm.cloudfront.net/products/15/product.jpg",
+      "brand": "Alternative",
+      "variant_count": 48,
+      "options": [
+        {
+          "id": "remove_labels",
+          "type": "bool",
+          "additional_price": null,
+          "title": "Tear off labels",
+          "values": null
+        }
+      ]
+    },
+    {
+      "files": [
+        {
+          "id": "default",
+          "additional_price": null,
+          "title": "Front print"
+        },
+        {
+          "id": "back",
+          "additional_price": "7.00",
+          "title": "Back print"
+        },
+        {
+          "id": "label",
+          "additional_price": "3.00",
+          "title": "Outside label"
+        },
+        {
+          "id": "preview",
+          "additional_price": null,
+          "title": "Mockup"
+        }
+      ],
+      "type": "HOODIE",
+      "model": "5495 Unisex California Fleece Pullover Hoodie",
+      "id": 16,
+      "image": "https://d1yg28hrivmbqm.cloudfront.net/products/5495_AA_sweatshirt.jpg",
+      "brand": "American Apparel",
+      "variant_count": 48,
+      "options": []
+    },
+    {
+      "files": [
+        {
+          "id": "default",
+          "additional_price": null,
+          "title": "Front print"
+        },
+        {
+          "id": "back",
+          "additional_price": "7.00",
+          "title": "Back print"
+        },
+        {
+          "id": "label",
+          "additional_price": "3.00",
+          "title": "Outside label"
+        },
+        {
+          "id": "preview",
+          "additional_price": null,
+          "title": "Mockup"
+        }
+      ],
+      "type": "HOODIE",
+      "model": "5454 Unisex California Fleece Raglan",
+      "id": 17,
+      "image": "https://d1yg28hrivmbqm.cloudfront.net/products/5454_AA_sweatshirt.jpg",
+      "brand": "American Apparel",
+      "variant_count": 36,
+      "options": []
+    },
+    {
+      "files": [
+        {
+          "id": "default",
+          "additional_price": null,
+          "title": "Front print"
+        },
+        {
+          "id": "back",
+          "additional_price": "7.00",
+          "title": "Back print"
+        },
+        {
+          "id": "preview",
+          "additional_price": null,
+          "title": "Mockup"
+        }
+      ],
+      "type": "TOTE",
+      "model": "E549 Bull Denim Woven Cotton Tote",
+      "id": 18,
+      "image": "https://d1yg28hrivmbqm.cloudfront.net/products/tote.jpg",
+      "brand": "American Apparel",
+      "variant_count": 1,
+      "options": []
+    },
+    {
+      "files": [
+        {
+          "id": "default",
+          "additional_price": null,
+          "title": "Print file"
+        },
+        {
+          "id": "preview",
+          "additional_price": null,
+          "title": "Mockup"
+        }
+      ],
+      "type": "MUG",
+      "model": "Mug",
+      "id": 19,
+      "image": "https://d1yg28hrivmbqm.cloudfront.net/products/mug_new.jpg",
+      "brand": null,
+      "variant_count": 4,
+      "options": []
+    },
+    {
+      "files": [
+        {
+          "id": "default",
+          "additional_price": null,
+          "title": "Print file"
+        },
+        {
+          "id": "preview",
+          "additional_price": null,
+          "title": "Mockup"
+        }
+      ],
+      "type": "CARD",
+      "model": "Greeting Card",
+      "id": 20,
+      "image": "https://d1yg28hrivmbqm.cloudfront.net/products/20/product.jpg",
+      "brand": null,
+      "variant_count": 1,
+      "options": []
+    },
+    {
+      "files": [
+        {
+          "id": "default",
+          "additional_price": null,
+          "title": "Front print"
+        },
+        {
+          "id": "back",
+          "additional_price": "7.00",
+          "title": "Back print"
+        },
+        {
+          "id": "label",
+          "additional_price": "3.00",
+          "title": "Outside label"
+        },
+        {
+          "id": "preview",
+          "additional_price": null,
+          "title": "Mockup"
+        }
+      ],
+      "type": "T-SHIRT",
+      "model": "2105 Kids Fine Jersey Short Sleeve T-Shirt",
+      "id": 23,
+      "image": "https://d1yg28hrivmbqm.cloudfront.net/products/2105_AA_tshirt.jpg",
+      "brand": "American Apparel",
+      "variant_count": 60,
+      "options": []
+    },
+    {
+      "files": [
+        {
+          "id": "default",
+          "additional_price": null,
+          "title": "Front print"
+        },
+        {
+          "id": "back",
+          "additional_price": "7.00",
+          "title": "Back print"
+        },
+        {
+          "id": "label",
+          "additional_price": "3.00",
+          "title": "Outside label"
+        },
+        {
+          "id": "preview",
+          "additional_price": null,
+          "title": "Mockup"
+        }
+      ],
+      "type": "T-SHIRT",
+      "model": "2201 Youth Fine Jersey Short Sleeve T-Shirt",
+      "id": 24,
+      "image": "https://d1yg28hrivmbqm.cloudfront.net/products/2201_AA_tshirt.jpg",
+      "brand": "American Apparel",
+      "variant_count": 60,
+      "options": []
+    },
+    {
+      "files": [
+        {
+          "id": "default",
+          "additional_price": null,
+          "title": "Print file"
+        },
+        {
+          "id": "preview",
+          "additional_price": null,
+          "title": "Mockup"
+        }
+      ],
+      "type": "CALENDAR",
+      "model": "Desk Calendar",
+      "id": 25,
+      "image": "https://d1yg28hrivmbqm.cloudfront.net/products/25/product_1415191571.jpg",
+      "brand": null,
+      "variant_count": 1,
+      "options": []
+    },
+    {
+      "files": [
+        {
+          "id": "default",
+          "additional_price": null,
+          "title": "Front print"
+        },
+        {
+          "id": "back",
+          "additional_price": "7.00",
+          "title": "Back print"
+        },
+        {
+          "id": "label",
+          "additional_price": "3.00",
+          "title": "Outside label"
+        },
+        {
+          "id": "preview",
+          "additional_price": null,
+          "title": "Mockup"
+        }
+      ],
+      "type": "T-SHIRT",
+      "model": "2105ORG Organic Kids Fine Jersey Short Sleeve T-Shirt",
+      "id": 26,
+      "image": "https://d1yg28hrivmbqm.cloudfront.net/products/2105org_AA_tshirt.jpg",
+      "brand": "American Apparel",
+      "variant_count": 24,
+      "options": []
+    },
+    {
+      "files": [
+        {
+          "id": "default",
+          "additional_price": null,
+          "title": "Front print"
+        },
+        {
+          "id": "back",
+          "additional_price": "7.00",
+          "title": "Back print"
+        },
+        {
+          "id": "label",
+          "additional_price": "3.00",
+          "title": "Outside label"
+        },
+        {
+          "id": "preview",
+          "additional_price": null,
+          "title": "Mockup"
+        }
+      ],
+      "type": "T-SHIRT",
+      "model": "64V00 Softstyle V-Neck T-Shirt",
+      "id": 27,
+      "image": "https://d1yg28hrivmbqm.cloudfront.net/products/27/product.jpg",
+      "brand": "Gildan",
+      "variant_count": 24,
+      "options": []
+    },
+    {
+      "files": [
+        {
+          "id": "default",
+          "additional_price": null,
+          "title": "Front print"
+        },
+        {
+          "id": "back",
+          "additional_price": "7.00",
+          "title": "Back print"
+        },
+        {
+          "id": "label",
+          "additional_price": "3.00",
+          "title": "Outside label"
+        },
+        {
+          "id": "preview",
+          "additional_price": null,
+          "title": "Mockup"
+        }
+      ],
+      "type": "T-SHIRT",
+      "model": "64V00L Junior Fit Softstyle V-Neck T-Shirt",
+      "id": 28,
+      "image": "https://d1yg28hrivmbqm.cloudfront.net/products/28/product.jpg",
+      "brand": "Gildan",
+      "variant_count": 30,
+      "options": []
+    },
+    {
+      "files": [
+        {
+          "id": "default",
+          "additional_price": null,
+          "title": "Front print"
+        },
+        {
+          "id": "preview",
+          "additional_price": null,
+          "title": "Mockup"
+        }
+      ],
+      "type": "T-SHIRT",
+      "model": "RSA2329 Fine Jersey Racerback Tank",
+      "id": 29,
+      "image": "https://d1yg28hrivmbqm.cloudfront.net/products/29/1684.jpg",
+      "brand": "American Apparel",
+      "variant_count": 12,
+      "options": []
+    },
+    {
+      "files": [
+        {
+          "id": "default",
+          "additional_price": null,
+          "title": "Front print"
+        },
+        {
+          "id": "preview",
+          "additional_price": null,
+          "title": "Mockup"
+        }
+      ],
+      "type": "T-SHIRT",
+      "model": "6308 Sheer Jersey Racerback Tank",
+      "id": 30,
+      "image": "https://d1yg28hrivmbqm.cloudfront.net/products/30/1696.jpg",
+      "brand": "American Apparel",
+      "variant_count": 8,
+      "options": []
+    },
+    {
+      "files": [
+        {
+          "id": "default",
+          "additional_price": null,
+          "title": "Front print"
+        },
+        {
+          "id": "back",
+          "additional_price": "7.00",
+          "title": "Back print"
+        },
+        {
+          "id": "label",
+          "additional_price": "3.00",
+          "title": "Outside label"
+        },
+        {
+          "id": "preview",
+          "additional_price": null,
+          "title": "Mockup"
+        }
+      ],
+      "type": "T-SHIRT",
+      "model": "2011 Unisex Power Washed Tee",
+      "id": 31,
+      "image": "https://d1yg28hrivmbqm.cloudfront.net/products/31/1704.jpg",
+      "brand": "American Apparel",
+      "variant_count": 84,
+      "options": []
+    },
+    {
+      "files": [
+        {
+          "id": "default",
+          "additional_price": null,
+          "title": "Front print"
+        },
+        {
+          "id": "back",
+          "additional_price": "7.00",
+          "title": "Back print"
+        },
+        {
+          "id": "label",
+          "additional_price": "3.00",
+          "title": "Outside label"
+        },
+        {
+          "id": "preview",
+          "additional_price": null,
+          "title": "Mockup"
+        }
+      ],
+      "type": "T-SHIRT",
+      "model": "2411 Unisex Power Washed Tank",
+      "id": 32,
+      "image": "https://d1yg28hrivmbqm.cloudfront.net/products/32/1788.jpg",
+      "brand": "American Apparel",
+      "variant_count": 30,
+      "options": []
+    },
+    {
+      "files": [
+        {
+          "id": "default",
+          "additional_price": null,
+          "title": "Front print"
+        },
+        {
+          "id": "back",
+          "additional_price": "7.00",
+          "title": "Back print"
+        },
+        {
+          "id": "label",
+          "additional_price": "3.00",
+          "title": "Outside label"
+        },
+        {
+          "id": "preview",
+          "additional_price": null,
+          "title": "Mockup"
+        }
+      ],
+      "type": "HOODIE",
+      "model": "RSA5154 Kids California Fleece Raglan",
+      "id": 35,
+      "image": "https://d1yg28hrivmbqm.cloudfront.net/products/35/1920.jpg",
+      "brand": "American Apparel",
+      "variant_count": 12,
+      "options": []
+    },
+    {
+      "files": [
+        {
+          "id": "default",
+          "additional_price": null,
+          "title": "Front print"
+        },
+        {
+          "id": "back",
+          "additional_price": "7.00",
+          "title": "Back print"
+        },
+        {
+          "id": "label",
+          "additional_price": "3.00",
+          "title": "Inside label"
+        },
+        {
+          "id": "preview",
+          "additional_price": null,
+          "title": "Mockup"
+        }
+      ],
+      "type": "T-SHIRT",
+      "model": "980 Lightweight Fashion Short Sleeve T-Shirt with TearAway™ Label",
+      "id": 37,
+      "image": "https://d1yg28hrivmbqm.cloudfront.net/products/37/product.jpg",
+      "brand": "Anvil",
+      "variant_count": 174,
+      "options": []
+    },
+    {
+      "files": [
+        {
+          "id": "default",
+          "additional_price": null,
+          "title": "Front print"
+        },
+        {
+          "id": "back",
+          "additional_price": "7.00",
+          "title": "Back print"
+        },
+        {
+          "id": "label",
+          "additional_price": "3.00",
+          "title": "Inside label"
+        },
+        {
+          "id": "preview",
+          "additional_price": null,
+          "title": "Mockup"
+        }
+      ],
+      "type": "T-SHIRT",
+      "model": "1071 Long Sleeve T-Shirt with Tear Away Label",
+      "id": 40,
+      "image": "https://d1yg28hrivmbqm.cloudfront.net/products/40/product.jpg",
+      "brand": "Alternative",
+      "variant_count": 20,
+      "options": [
+        {
+          "id": "remove_labels",
+          "type": "bool",
+          "additional_price": null,
+          "title": "Tear off labels",
+          "values": null
+        }
+      ]
+    },
+    {
+      "files": [
+        {
+          "id": "default",
+          "additional_price": null,
+          "title": "Front print"
+        },
+        {
+          "id": "back",
+          "additional_price": "7.00",
+          "title": "Back print"
+        },
+        {
+          "id": "label",
+          "additional_price": "3.00",
+          "title": "Inside label"
+        },
+        {
+          "id": "preview",
+          "additional_price": null,
+          "title": "Mockup"
+        }
+      ],
+      "type": "T-SHIRT",
+      "model": "982 Lightweight Fashion V-Neck T-Shirt with TearAway™ Label",
+      "id": 41,
+      "image": "https://d1yg28hrivmbqm.cloudfront.net/products/41/product.jpg",
+      "brand": "Anvil",
+      "variant_count": 35,
+      "options": []
+    },
+    {
+      "files": [
+        {
+          "id": "default",
+          "additional_price": null,
+          "title": "Front print"
+        },
+        {
+          "id": "back",
+          "additional_price": "7.00",
+          "title": "Back print"
+        },
+        {
+          "id": "label",
+          "additional_price": "3.00",
+          "title": "Outside label"
+        },
+        {
+          "id": "preview",
+          "additional_price": null,
+          "title": "Mockup"
+        }
+      ],
+      "type": "T-SHIRT",
+      "model": "6401 Unisex Sheer Jersey Short Sleeve Summer T-Shirt",
+      "id": 42,
+      "image": "https://d1yg28hrivmbqm.cloudfront.net/products/42/2307.jpg",
+      "brand": "American Apparel",
+      "variant_count": 75,
+      "options": []
+    },
+    {
+      "files": [
+        {
+          "id": "default",
+          "additional_price": null,
+          "title": "Front print"
+        },
+        {
+          "id": "back",
+          "additional_price": "7.00",
+          "title": "Back print"
+        },
+        {
+          "id": "label",
+          "additional_price": "3.00",
+          "title": "Outside label"
+        },
+        {
+          "id": "preview",
+          "additional_price": null,
+          "title": "Mockup"
+        }
+      ],
+      "type": "T-SHIRT",
+      "model": "2000B Youth Ultra Cotton™ T-Shirt",
+      "id": 44,
+      "image": "https://d1yg28hrivmbqm.cloudfront.net/products/44/product.jpg",
+      "brand": "Gildan",
+      "variant_count": 125,
+      "options": []
+    },
+    {
+      "files": [
+        {
+          "id": "default",
+          "additional_price": null,
+          "title": "Front print"
+        },
+        {
+          "id": "back",
+          "additional_price": "7.00",
+          "title": "Back print"
+        },
+        {
+          "id": "label",
+          "additional_price": "3.00",
+          "title": "Outside label"
+        },
+        {
+          "id": "preview",
+          "additional_price": null,
+          "title": "Mockup"
+        }
+      ],
+      "type": "T-SHIRT",
+      "model": "5000L Ladies Heavy Cotton Short Sleeve T-Shirt",
+      "id": 46,
+      "image": "https://d1yg28hrivmbqm.cloudfront.net/products/46/product.jpg",
+      "brand": "Gildan",
+      "variant_count": 186,
+      "options": []
+    },
+    {
+      "files": [
+        {
+          "id": "default",
+          "additional_price": null,
+          "title": "Front print"
+        },
+        {
+          "id": "back",
+          "additional_price": "7.00",
+          "title": "Back print"
+        },
+        {
+          "id": "label",
+          "additional_price": "3.00",
+          "title": "Inside label"
+        },
+        {
+          "id": "preview",
+          "additional_price": null,
+          "title": "Mockup"
+        }
+      ],
+      "type": "T-SHIRT",
+      "model": "420 Organic Cotton T-Shirt with TearAway™ Label",
+      "id": 47,
+      "image": "https://d1yg28hrivmbqm.cloudfront.net/products/47/product.jpg",
+      "brand": "Anvil",
+      "variant_count": 88,
+      "options": []
+    },
+    {
+      "files": [
+        {
+          "id": "default",
+          "additional_price": null,
+          "title": "Front print"
+        },
+        {
+          "id": "back",
+          "additional_price": "7.00",
+          "title": "Back print"
+        },
+        {
+          "id": "label",
+          "additional_price": "3.00",
+          "title": "Outside label"
+        },
+        {
+          "id": "preview",
+          "additional_price": null,
+          "title": "Mockup"
+        }
+      ],
+      "type": "T-SHIRT",
+      "model": "2000 Ultra Cotton™ T-Shirt",
+      "id": 48,
+      "image": "https://d1yg28hrivmbqm.cloudfront.net/products/48/product.jpg",
+      "brand": "Gildan",
+      "variant_count": 368,
+      "options": []
+    },
+    {
+      "files": [
+        {
+          "id": "default",
+          "additional_price": null,
+          "title": "Front print"
+        },
+        {
+          "id": "back",
+          "additional_price": "7.00",
+          "title": "Back print"
+        },
+        {
+          "id": "label",
+          "additional_price": "3.00",
+          "title": "Inside label"
+        },
+        {
+          "id": "preview",
+          "additional_price": null,
+          "title": "Mockup"
+        }
+      ],
+      "type": "T-SHIRT",
+      "model": "986 Lightweight Fashion Tank with TearAway™ Label",
+      "id": 50,
+      "image": "https://d1yg28hrivmbqm.cloudfront.net/products/50/product.jpg",
+      "brand": "Anvil",
+      "variant_count": 20,
+      "options": []
+    },
+    {
+      "files": [
+        {
+          "id": "default",
+          "additional_price": null,
+          "title": "Front print"
+        },
+        {
+          "id": "back",
+          "additional_price": "7.00",
+          "title": "Back print"
+        },
+        {
+          "id": "label",
+          "additional_price": "3.00",
+          "title": "Outside label"
+        },
+        {
+          "id": "preview",
+          "additional_price": null,
+          "title": "Mockup"
+        }
+      ],
+      "type": "T-SHIRT",
+      "model": "4056 The Miggy Tank",
+      "id": 52,
+      "image": "https://d1yg28hrivmbqm.cloudfront.net/products/52/product.jpg",
+      "brand": "Alternative",
+      "variant_count": 10,
+      "options": []
+    },
+    {
+      "files": [
+        {
+          "id": "default",
+          "additional_price": null,
+          "title": "Front print"
+        },
+        {
+          "id": "back",
+          "additional_price": "7.00",
+          "title": "Back print"
+        },
+        {
+          "id": "label",
+          "additional_price": "3.00",
+          "title": "Outside label"
+        },
+        {
+          "id": "preview",
+          "additional_price": null,
+          "title": "Mockup"
+        }
+      ],
+      "type": "T-SHIRT",
+      "model": "1032 Basic V-Neck T-Shirt",
+      "id": 53,
+      "image": "https://d1yg28hrivmbqm.cloudfront.net/products/53/product.jpg",
+      "brand": "Alternative",
+      "variant_count": 20,
+      "options": []
+    },
+    {
+      "files": [
+        {
+          "id": "default",
+          "additional_price": null,
+          "title": "Front print"
+        },
+        {
+          "id": "back",
+          "additional_price": "7.00",
+          "title": "Back print"
+        },
+        {
+          "id": "label",
+          "additional_price": "3.00",
+          "title": "Outside label"
+        },
+        {
+          "id": "preview",
+          "additional_price": null,
+          "title": "Mockup"
+        }
+      ],
+      "type": "T-SHIRT",
+      "model": "6021 Ladies Organic Scoopneck T-Shirt",
+      "id": 54,
+      "image": "https://d1yg28hrivmbqm.cloudfront.net/products/54/product.jpg?v2",
+      "brand": "Alternative",
+      "variant_count": 20,
+      "options": []
+    },
+    {
+      "files": [
+        {
+          "id": "default",
+          "additional_price": null,
+          "title": "Front print"
+        },
+        {
+          "id": "back",
+          "additional_price": "7.00",
+          "title": "Back print"
+        },
+        {
+          "id": "label",
+          "additional_price": "3.00",
+          "title": "Outside label"
+        },
+        {
+          "id": "preview",
+          "additional_price": null,
+          "title": "Mockup"
+        }
+      ],
+      "type": "T-SHIRT",
+      "model": "4032 Ladies Karen V-Neck T-Shirt",
+      "id": 56,
+      "image": "https://d1yg28hrivmbqm.cloudfront.net/products/56/product.jpg",
+      "brand": "Alternative",
+      "variant_count": 12,
+      "options": []
+    },
+    {
+      "files": [
+        {
+          "id": "default",
+          "additional_price": null,
+          "title": "Front print"
+        },
+        {
+          "id": "back",
+          "additional_price": "7.00",
+          "title": "Back print"
+        },
+        {
+          "id": "label",
+          "additional_price": "3.00",
+          "title": "Outside label"
+        },
+        {
+          "id": "preview",
+          "additional_price": null,
+          "title": "Mockup"
+        }
+      ],
+      "type": "T-SHIRT",
+      "model": "2400 Ultra Cotton™ Long Sleeve T-Shirt",
+      "id": 57,
+      "image": "https://d1yg28hrivmbqm.cloudfront.net/products/57/product.jpg",
+      "brand": "Gildan",
+      "variant_count": 176,
+      "options": []
+    },
+    {
+      "files": [
+        {
+          "id": "default",
+          "additional_price": null,
+          "title": "Front print"
+        },
+        {
+          "id": "back",
+          "additional_price": "7.00",
+          "title": "Back print"
+        },
+        {
+          "id": "label",
+          "additional_price": "3.00",
+          "title": "Outside label"
+        },
+        {
+          "id": "preview",
+          "additional_price": null,
+          "title": "Mockup"
+        }
+      ],
+      "type": "T-SHIRT",
+      "model": "4521 Ladies Satin Jersey Roadtrip Tee",
+      "id": 58,
+      "image": "https://d1yg28hrivmbqm.cloudfront.net/products/58/product.jpg",
+      "brand": "Alternative",
+      "variant_count": 20,
+      "options": []
+    },
+    {
+      "files": [
+        {
+          "id": "default",
+          "additional_price": null,
+          "title": "Front print"
+        },
+        {
+          "id": "back",
+          "additional_price": "7.00",
+          "title": "Back print"
+        },
+        {
+          "id": "label",
+          "additional_price": "3.00",
+          "title": "Outside label"
+        },
+        {
+          "id": "preview",
+          "additional_price": null,
+          "title": "Mockup"
+        }
+      ],
+      "type": "T-SHIRT",
+      "model": "4001 Infant Baby Rib Short Sleeve One-Piece",
+      "id": 59,
+      "image": "https://d1yg28hrivmbqm.cloudfront.net/products/59/product.jpg",
+      "brand": "American Apparel",
+      "variant_count": 56,
+      "options": []
+    },
+    {
+      "files": [
+        {
+          "id": "default",
+          "additional_price": null,
+          "title": "Front print"
+        },
+        {
+          "id": "back",
+          "additional_price": "7.00",
+          "title": "Back print"
+        },
+        {
+          "id": "label",
+          "additional_price": "3.00",
+          "title": "Outside label"
+        },
+        {
+          "id": "preview",
+          "additional_price": null,
+          "title": "Mockup"
+        }
+      ],
+      "type": "T-SHIRT",
+      "model": "4001ORG Organic Infant Baby Rib Short Sleeve One-Piece",
+      "id": 60,
+      "image": "https://d1yg28hrivmbqm.cloudfront.net/products/60/product.jpg",
+      "brand": "American Apparel",
+      "variant_count": 24,
+      "options": []
+    },
+    {
+      "files": [
+        {
+          "id": "default",
+          "additional_price": null,
+          "title": "Front print"
+        },
+        {
+          "id": "back",
+          "additional_price": "7.00",
+          "title": "Back print"
+        },
+        {
+          "id": "label",
+          "additional_price": "3.00",
+          "title": "Outside label"
+        },
+        {
+          "id": "preview",
+          "additional_price": null,
+          "title": "Mockup"
+        }
+      ],
+      "type": "T-SHIRT",
+      "model": "4041 Infant Baby Rib Long Sleeve One-Piece",
+      "id": 61,
+      "image": "https://d1yg28hrivmbqm.cloudfront.net/products/61/product.jpg",
+      "brand": "American Apparel",
+      "variant_count": 12,
+      "options": []
+    },
+    {
+      "files": [
+        {
+          "id": "default",
+          "additional_price": null,
+          "title": "Front print"
+        },
+        {
+          "id": "back",
+          "additional_price": "7.00",
+          "title": "Back print"
+        },
+        {
+          "id": "label",
+          "additional_price": "3.00",
+          "title": "Outside label"
+        },
+        {
+          "id": "preview",
+          "additional_price": null,
+          "title": "Mockup"
+        }
+      ],
+      "type": "T-SHIRT",
+      "model": "4380 Women Baby Rib Crop T",
+      "id": 65,
+      "image": "https://d1yg28hrivmbqm.cloudfront.net/products/65/product.jpg",
+      "brand": "American Apparel",
+      "variant_count": 6,
+      "options": []
+    },
+    {
+      "files": [
+        {
+          "id": "default",
+          "additional_price": null,
+          "title": "Front print"
+        },
+        {
+          "id": "back",
+          "additional_price": "7.00",
+          "title": "Back print"
+        },
+        {
+          "id": "label",
+          "additional_price": "3.00",
+          "title": "Outside label"
+        },
+        {
+          "id": "preview",
+          "additional_price": null,
+          "title": "Mockup"
+        }
+      ],
+      "type": "HOODIE",
+      "model": "5398 California Fleece Pullover Raglan Hoodie Dress",
+      "id": 66,
+      "image": "https://d1yg28hrivmbqm.cloudfront.net/products/66/product.jpg",
+      "brand": "American Apparel",
+      "variant_count": 8,
+      "options": []
+    },
+    {
+      "files": [
+        {
+          "id": "default",
+          "additional_price": null,
+          "title": "Print file"
+        },
+        {
+          "id": "preview",
+          "additional_price": null,
+          "title": "Mockup"
+        }
+      ],
+      "type": "DECAL",
+      "model": "Wall Decal",
+      "id": 67,
+      "image": "https://d1yg28hrivmbqm.cloudfront.net/products/67/product.jpg",
+      "brand": null,
+      "variant_count": 4,
+      "options": []
+    },
+    {
+      "files": [
+        {
+          "id": "default",
+          "additional_price": null,
+          "title": "Front print"
+        },
+        {
+          "id": "preview",
+          "additional_price": null,
+          "title": "Mockup"
+        }
+      ],
+      "type": "T-SHIRT",
+      "model": "S308 Sheer Rib Racerback Tank",
+      "id": 68,
+      "image": "https://d1yg28hrivmbqm.cloudfront.net/products/68/product.jpg",
+      "brand": "American Apparel",
+      "variant_count": 8,
+      "options": []
+    },
+    {
+      "files": [
+        {
+          "id": "default",
+          "additional_price": null,
+          "title": "Front print"
+        },
+        {
+          "id": "back",
+          "additional_price": "7.00",
+          "title": "Back print"
+        },
+        {
+          "id": "label",
+          "additional_price": "3.00",
+          "title": "Outside label"
+        },
+        {
+          "id": "preview",
+          "additional_price": null,
+          "title": "Mockup"
+        }
+      ],
+      "type": "T-SHIRT",
+      "model": "2456ORG Fine Jersey Short Sleeve V-Neck Unisex",
+      "id": 69,
+      "image": "https://d1yg28hrivmbqm.cloudfront.net/products/69/product.jpg",
+      "brand": "American Apparel",
+      "variant_count": 40,
+      "options": []
+    },
+    {
+      "files": [
+        {
+          "id": "default",
+          "additional_price": null,
+          "title": "Front print"
+        },
+        {
+          "id": "back",
+          "additional_price": "7.00",
+          "title": "Back print"
+        },
+        {
+          "id": "label",
+          "additional_price": "3.00",
+          "title": "Outside label"
+        },
+        {
+          "id": "preview",
+          "additional_price": null,
+          "title": "Mockup"
+        }
+      ],
+      "type": "T-SHIRT",
+      "model": "3001 Unisex Short Sleeve Jersey T-Shirt",
+      "id": 71,
+      "image": "https://d1yg28hrivmbqm.cloudfront.net/products/71/product.jpg",
+      "brand": "Bella + Canvas",
+      "variant_count": 75,
+      "options": []
+    },
+    {
+      "files": [
+        {
+          "id": "default",
+          "additional_price": null,
+          "title": "Front print"
+        },
+        {
+          "id": "back",
+          "additional_price": "7.00",
+          "title": "Back print"
+        },
+        {
+          "id": "label",
+          "additional_price": "3.00",
+          "title": "Inside label"
+        },
+        {
+          "id": "preview",
+          "additional_price": null,
+          "title": "Mockup"
+        }
+      ],
+      "type": "T-SHIRT",
+      "model": "990B Youth Lightweight Fashion T-Shirt with TearAway™ Label",
+      "id": 73,
+      "image": "https://d1yg28hrivmbqm.cloudfront.net/products/73/product.jpg",
+      "brand": "Anvil",
+      "variant_count": 20,
+      "options": []
+    },
+    {
+      "files": [
+        {
+          "id": "default",
+          "additional_price": null,
+          "title": "Front print"
+        },
+        {
+          "id": "back",
+          "additional_price": "7.00",
+          "title": "Back print"
+        },
+        {
+          "id": "label",
+          "additional_price": "3.00",
+          "title": "Outside label"
+        },
+        {
+          "id": "preview",
+          "additional_price": null,
+          "title": "Mockup"
+        }
+      ],
+      "type": "T-SHIRT",
+      "model": "2201ORG Organic Youth Fine Jersey Short Sleeve T-Shirt",
+      "id": 76,
+      "image": "https://d1yg28hrivmbqm.cloudfront.net/products/76/product.jpg",
+      "brand": "American Apparel",
+      "variant_count": 18,
+      "options": []
+    },
+    {
+      "files": [
+        {
+          "id": "default",
+          "additional_price": null,
+          "title": "Front graphics"
+        },
+        {
+          "id": "left",
+          "additional_price": "3.00",
+          "title": "Left side"
+        },
+        {
+          "id": "right",
+          "additional_price": "3.00",
+          "title": "Right side"
+        },
+        {
+          "id": "preview",
+          "additional_price": null,
+          "title": "Mockup"
+        }
+      ],
+      "type": "EMBROIDERY",
+      "model": "125-978 - Wool Blend Snapback",
+      "id": 77,
+      "image": "https://d1yg28hrivmbqm.cloudfront.net/products/77/product.jpg",
+      "brand": "Otto Cap",
+      "variant_count": 26,
+      "options": [
+        {
+          "id": "embroidery_type",
+          "type": "select",
+          "additional_price": null,
+          "title": "Embroidery type",
+          "values": {
+            "both": "Partial 3D Puff",
+            "3d": "3D Puff",
+            "flat": "Flat Embroidery"
+          }
+        },
+        {
+          "id": "thread_colors",
+          "type": "multi_select",
+          "additional_price": null,
+          "title": "Flat thread colors",
+          "values": {
+            "#6B5294": 1832,
+            "#000000": 1800,
+            "#CC3366": 19101,
+            "#FFCC00": 1951,
+            "#7BA35A": 1848,
+            "#FFFFFF": 1801,
+            "#E25C27": 1987,
+            "#993333": 1784,
+            "#CC9933": 1725,
+            "#CC3333": 1839,
+            "#333366": 1966,
+            "#99CCCC": 1874,
+            "#96A1A8": 1718,
+            "#01784E": 1751,
+            "#005397": 1842,
+            "#009999": 1695
+          }
+        },
+        {
+          "id": "thread_colors_3d",
+          "type": "multi_select",
+          "additional_price": null,
+          "title": "3D Puff thread colors",
+          "values": {
+            "#6B5294": 1832,
+            "#000000": 1800,
+            "#CC3366": 19101,
+            "#FFCC00": 1951,
+            "#7BA35A": 1848,
+            "#FFFFFF": 1801,
+            "#E25C27": 1987,
+            "#993333": 1784,
+            "#CC9933": 1725,
+            "#CC3333": 1839,
+            "#333366": 1966,
+            "#99CCCC": 1874,
+            "#96A1A8": 1718,
+            "#01784E": 1751,
+            "#005397": 1842,
+            "#009999": 1695
+          }
+        },
+        {
+          "id": "thread_colors_left",
+          "type": "multi_select",
+          "additional_price": null,
+          "title": "Left side thread colors",
+          "values": {
+            "#6B5294": 1832,
+            "#000000": 1800,
+            "#CC3366": 19101,
+            "#FFCC00": 1951,
+            "#7BA35A": 1848,
+            "#FFFFFF": 1801,
+            "#E25C27": 1987,
+            "#993333": 1784,
+            "#CC9933": 1725,
+            "#CC3333": 1839,
+            "#333366": 1966,
+            "#99CCCC": 1874,
+            "#96A1A8": 1718,
+            "#01784E": 1751,
+            "#005397": 1842,
+            "#009999": 1695
+          }
+        },
+        {
+          "id": "thread_colors_right",
+          "type": "multi_select",
+          "additional_price": null,
+          "title": "Right side thread colors",
+          "values": {
+            "#6B5294": 1832,
+            "#000000": 1800,
+            "#CC3366": 19101,
+            "#FFCC00": 1951,
+            "#7BA35A": 1848,
+            "#FFFFFF": 1801,
+            "#E25C27": 1987,
+            "#993333": 1784,
+            "#CC9933": 1725,
+            "#CC3333": 1839,
+            "#333366": 1966,
+            "#99CCCC": 1874,
+            "#96A1A8": 1718,
+            "#01784E": 1751,
+            "#005397": 1842,
+            "#009999": 1695
+          }
+        },
+        {
+          "id": "notes",
+          "type": "text",
+          "additional_price": null,
+          "title": "Embroidery notes",
+          "values": null
+        }
+      ]
+    },
+    {
+      "files": [
+        {
+          "id": "default",
+          "additional_price": null,
+          "title": "Front graphics"
+        },
+        {
+          "id": "left",
+          "additional_price": "3.00",
+          "title": "Left side"
+        },
+        {
+          "id": "right",
+          "additional_price": "3.00",
+          "title": "Right side"
+        },
+        {
+          "id": "preview",
+          "additional_price": null,
+          "title": "Mockup"
+        }
+      ],
+      "type": "EMBROIDERY",
+      "model": "151-1098 - Cotton 5Panel Camper",
+      "id": 78,
+      "image": "https://d1yg28hrivmbqm.cloudfront.net/products/78/product.jpg",
+      "brand": "Otto Cap",
+      "variant_count": 4,
+      "options": [
+        {
+          "id": "embroidery_type",
+          "type": "select",
+          "additional_price": null,
+          "title": "Embroidery type",
+          "values": {
+            "both": "Partial 3D Puff",
+            "3d": "3D Puff",
+            "flat": "Flat Embroidery"
+          }
+        },
+        {
+          "id": "thread_colors",
+          "type": "multi_select",
+          "additional_price": null,
+          "title": "Flat thread colors",
+          "values": {
+            "#6B5294": 1832,
+            "#000000": 1800,
+            "#CC3366": 19101,
+            "#FFCC00": 1951,
+            "#7BA35A": 1848,
+            "#FFFFFF": 1801,
+            "#E25C27": 1987,
+            "#993333": 1784,
+            "#CC9933": 1725,
+            "#CC3333": 1839,
+            "#333366": 1966,
+            "#99CCCC": 1874,
+            "#96A1A8": 1718,
+            "#01784E": 1751,
+            "#005397": 1842,
+            "#009999": 1695
+          }
+        },
+        {
+          "id": "thread_colors_3d",
+          "type": "multi_select",
+          "additional_price": null,
+          "title": "3D Puff thread colors",
+          "values": {
+            "#6B5294": 1832,
+            "#000000": 1800,
+            "#CC3366": 19101,
+            "#FFCC00": 1951,
+            "#7BA35A": 1848,
+            "#FFFFFF": 1801,
+            "#E25C27": 1987,
+            "#993333": 1784,
+            "#CC9933": 1725,
+            "#CC3333": 1839,
+            "#333366": 1966,
+            "#99CCCC": 1874,
+            "#96A1A8": 1718,
+            "#01784E": 1751,
+            "#005397": 1842,
+            "#009999": 1695
+          }
+        },
+        {
+          "id": "thread_colors_left",
+          "type": "multi_select",
+          "additional_price": null,
+          "title": "Left side thread colors",
+          "values": {
+            "#6B5294": 1832,
+            "#000000": 1800,
+            "#CC3366": 19101,
+            "#FFCC00": 1951,
+            "#7BA35A": 1848,
+            "#FFFFFF": 1801,
+            "#E25C27": 1987,
+            "#993333": 1784,
+            "#CC9933": 1725,
+            "#CC3333": 1839,
+            "#333366": 1966,
+            "#99CCCC": 1874,
+            "#96A1A8": 1718,
+            "#01784E": 1751,
+            "#005397": 1842,
+            "#009999": 1695
+          }
+        },
+        {
+          "id": "thread_colors_right",
+          "type": "multi_select",
+          "additional_price": null,
+          "title": "Right side thread colors",
+          "values": {
+            "#6B5294": 1832,
+            "#000000": 1800,
+            "#CC3366": 19101,
+            "#FFCC00": 1951,
+            "#7BA35A": 1848,
+            "#FFFFFF": 1801,
+            "#E25C27": 1987,
+            "#993333": 1784,
+            "#CC9933": 1725,
+            "#CC3333": 1839,
+            "#333366": 1966,
+            "#99CCCC": 1874,
+            "#96A1A8": 1718,
+            "#01784E": 1751,
+            "#005397": 1842,
+            "#009999": 1695
+          }
+        },
+        {
+          "id": "notes",
+          "type": "text",
+          "additional_price": null,
+          "title": "Embroidery notes",
+          "values": null
+        }
+      ]
+    },
+    {
+      "files": [
+        {
+          "id": "default",
+          "additional_price": null,
+          "title": "Front graphics"
+        },
+        {
+          "id": "preview",
+          "additional_price": null,
+          "title": "Mockup"
+        }
+      ],
+      "type": "EMBROIDERY",
+      "model": "146-1069 - Acrylic Knit Slouch Beanie 11 3/4\"",
+      "id": 79,
+      "image": "https://d1yg28hrivmbqm.cloudfront.net/products/79/product.jpg",
+      "brand": "Otto Cap",
+      "variant_count": 3,
+      "options": [
+        {
+          "id": "embroidery_type",
+          "type": "select",
+          "additional_price": null,
+          "title": "Embroidery type",
+          "values": {
+            "both": "Partial 3D Puff",
+            "3d": "3D Puff",
+            "flat": "Flat Embroidery"
+          }
+        },
+        {
+          "id": "thread_colors",
+          "type": "multi_select",
+          "additional_price": null,
+          "title": "Flat thread colors",
+          "values": {
+            "#6B5294": 1832,
+            "#000000": 1800,
+            "#CC3366": 19101,
+            "#FFCC00": 1951,
+            "#7BA35A": 1848,
+            "#FFFFFF": 1801,
+            "#E25C27": 1987,
+            "#993333": 1784,
+            "#CC9933": 1725,
+            "#CC3333": 1839,
+            "#333366": 1966,
+            "#99CCCC": 1874,
+            "#96A1A8": 1718,
+            "#01784E": 1751,
+            "#005397": 1842,
+            "#009999": 1695
+          }
+        },
+        {
+          "id": "thread_colors_3d",
+          "type": "multi_select",
+          "additional_price": null,
+          "title": "3D Puff thread colors",
+          "values": {
+            "#6B5294": 1832,
+            "#000000": 1800,
+            "#CC3366": 19101,
+            "#FFCC00": 1951,
+            "#7BA35A": 1848,
+            "#FFFFFF": 1801,
+            "#E25C27": 1987,
+            "#993333": 1784,
+            "#CC9933": 1725,
+            "#CC3333": 1839,
+            "#333366": 1966,
+            "#99CCCC": 1874,
+            "#96A1A8": 1718,
+            "#01784E": 1751,
+            "#005397": 1842,
+            "#009999": 1695
+          }
+        },
+        {
+          "id": "notes",
+          "type": "text",
+          "additional_price": null,
+          "title": "Embroidery notes",
+          "values": null
+        }
+      ]
+    },
+    {
+      "files": [
+        {
+          "id": "default",
+          "additional_price": null,
+          "title": "Front graphics"
+        },
+        {
+          "id": "preview",
+          "additional_price": null,
+          "title": "Mockup"
+        }
+      ],
+      "type": "EMBROIDERY",
+      "model": "82-480 - Knit Beanie 12\"",
+      "id": 81,
+      "image": "https://d1yg28hrivmbqm.cloudfront.net/products/81/product.jpg",
+      "brand": "Otto Cap",
+      "variant_count": 6,
+      "options": [
+        {
+          "id": "embroidery_type",
+          "type": "select",
+          "additional_price": null,
+          "title": "Embroidery type",
+          "values": {
+            "both": "Partial 3D Puff",
+            "3d": "3D Puff",
+            "flat": "Flat Embroidery"
+          }
+        },
+        {
+          "id": "thread_colors",
+          "type": "multi_select",
+          "additional_price": null,
+          "title": "Flat thread colors",
+          "values": {
+            "#6B5294": 1832,
+            "#000000": 1800,
+            "#CC3366": 19101,
+            "#FFCC00": 1951,
+            "#7BA35A": 1848,
+            "#FFFFFF": 1801,
+            "#E25C27": 1987,
+            "#993333": 1784,
+            "#CC9933": 1725,
+            "#CC3333": 1839,
+            "#333366": 1966,
+            "#99CCCC": 1874,
+            "#96A1A8": 1718,
+            "#01784E": 1751,
+            "#005397": 1842,
+            "#009999": 1695
+          }
+        },
+        {
+          "id": "thread_colors_3d",
+          "type": "multi_select",
+          "additional_price": null,
+          "title": "3D Puff thread colors",
+          "values": {
+            "#6B5294": 1832,
+            "#000000": 1800,
+            "#CC3366": 19101,
+            "#FFCC00": 1951,
+            "#7BA35A": 1848,
+            "#FFFFFF": 1801,
+            "#E25C27": 1987,
+            "#993333": 1784,
+            "#CC9933": 1725,
+            "#CC3333": 1839,
+            "#333366": 1966,
+            "#99CCCC": 1874,
+            "#96A1A8": 1718,
+            "#01784E": 1751,
+            "#005397": 1842,
+            "#009999": 1695
+          }
+        },
+        {
+          "id": "notes",
+          "type": "text",
+          "additional_price": null,
+          "title": "Embroidery notes",
+          "values": null
+        }
+      ]
+    },
+    {
+      "files": [
+        {
+          "id": "default",
+          "additional_price": null,
+          "title": "Front print"
+        },
+        {
+          "id": "back",
+          "additional_price": null,
+          "title": "Back print"
+        },
+        {
+          "id": "preview",
+          "additional_price": null,
+          "title": "Mockup"
+        }
+      ],
+      "type": "SUBLIMATION",
+      "model": "Pillowcase w/ stuffing",
+      "id": 83,
+      "image": "https://d1yg28hrivmbqm.cloudfront.net/products/83/product.jpg",
+      "brand": null,
+      "variant_count": 1,
+      "options": []
+    },
+    {
+      "files": [
+        {
+          "id": "default",
+          "additional_price": null,
+          "title": "Print file"
+        },
+        {
+          "id": "preview",
+          "additional_price": null,
+          "title": "Mockup"
+        }
+      ],
+      "type": "SUBLIMATION",
+      "model": "All-Over Tote",
+      "id": 84,
+      "image": "https://d1yg28hrivmbqm.cloudfront.net/products/84/product.jpg",
+      "brand": null,
+      "variant_count": 1,
+      "options": []
+    },
+    {
+      "files": [
+        {
+          "id": "default",
+          "additional_price": null,
+          "title": "Front graphics"
+        },
+        {
+          "id": "preview",
+          "additional_price": null,
+          "title": "Mockup"
+        }
+      ],
+      "type": "EMBROIDERY",
+      "model": "3630 - Unstructured 6 Panel Made in the USA",
+      "id": 85,
+      "image": "https://d1yg28hrivmbqm.cloudfront.net/products/85/product.jpg",
+      "brand": "Bayside",
+      "variant_count": 3,
+      "options": [
+        {
+          "id": "embroidery_type",
+          "type": "select",
+          "additional_price": null,
+          "title": "Embroidery type",
+          "values": {
+            "both": "Partial 3D Puff",
+            "3d": "3D Puff",
+            "flat": "Flat Embroidery"
+          }
+        },
+        {
+          "id": "thread_colors",
+          "type": "multi_select",
+          "additional_price": null,
+          "title": "Flat thread colors",
+          "values": {
+            "#6B5294": 1832,
+            "#000000": 1800,
+            "#CC3366": 19101,
+            "#FFCC00": 1951,
+            "#7BA35A": 1848,
+            "#FFFFFF": 1801,
+            "#E25C27": 1987,
+            "#993333": 1784,
+            "#CC9933": 1725,
+            "#CC3333": 1839,
+            "#333366": 1966,
+            "#99CCCC": 1874,
+            "#96A1A8": 1718,
+            "#01784E": 1751,
+            "#005397": 1842,
+            "#009999": 1695
+          }
+        },
+        {
+          "id": "thread_colors_3d",
+          "type": "multi_select",
+          "additional_price": null,
+          "title": "3D Puff thread colors",
+          "values": {
+            "#6B5294": 1832,
+            "#000000": 1800,
+            "#CC3366": 19101,
+            "#FFCC00": 1951,
+            "#7BA35A": 1848,
+            "#FFFFFF": 1801,
+            "#E25C27": 1987,
+            "#993333": 1784,
+            "#CC9933": 1725,
+            "#CC3333": 1839,
+            "#333366": 1966,
+            "#99CCCC": 1874,
+            "#96A1A8": 1718,
+            "#01784E": 1751,
+            "#005397": 1842,
+            "#009999": 1695
+          }
+        },
+        {
+          "id": "notes",
+          "type": "text",
+          "additional_price": null,
+          "title": "Embroidery notes",
+          "values": null
+        }
+      ]
+    },
+    {
+      "files": [
+        {
+          "id": "default",
+          "additional_price": null,
+          "title": "Front print"
+        },
+        {
+          "id": "back",
+          "additional_price": "4.00",
+          "title": "Back print"
+        },
+        {
+          "id": "preview",
+          "additional_price": null,
+          "title": "Mockup"
+        }
+      ],
+      "type": "SUBLIMATION",
+      "model": "PL408 Sublimation Tank",
+      "id": 87,
+      "image": "https://d1yg28hrivmbqm.cloudfront.net/products/87/product.jpg",
+      "brand": "American Apparel",
+      "variant_count": 5,
+      "options": []
+    },
+    {
+      "files": [
+        {
+          "id": "default",
+          "additional_price": null,
+          "title": "Front print"
+        },
+        {
+          "id": "back",
+          "additional_price": null,
+          "title": "Back print"
+        },
+        {
+          "id": "preview",
+          "additional_price": null,
+          "title": "Mockup"
+        }
+      ],
+      "type": "SUBLIMATION",
+      "model": "Pillowcase only",
+      "id": 89,
+      "image": "https://d1yg28hrivmbqm.cloudfront.net/products/89/product.jpg",
+      "brand": null,
+      "variant_count": 1,
+      "options": []
+    },
+    {
+      "files": [
+        {
+          "id": "default",
+          "additional_price": null,
+          "title": "Front print"
+        },
+        {
+          "id": "back",
+          "additional_price": "7.00",
+          "title": "Back print"
+        },
+        {
+          "id": "label",
+          "additional_price": "3.00",
+          "title": "Outside label"
+        },
+        {
+          "id": "preview",
+          "additional_price": null,
+          "title": "Mockup"
+        }
+      ],
+      "type": "HOODIE",
+      "model": "5497 California Fleece Zip Hoodie",
+      "id": 90,
+      "image": "https://d1yg28hrivmbqm.cloudfront.net/products/90/product_1412775460.jpg",
+      "brand": "American Apparel",
+      "variant_count": 30,
+      "options": []
+    },
+    {
+      "files": [
+        {
+          "id": "default",
+          "additional_price": null,
+          "title": "Front graphics"
+        },
+        {
+          "id": "left",
+          "additional_price": "3.00",
+          "title": "Left side"
+        },
+        {
+          "id": "right",
+          "additional_price": "3.00",
+          "title": "Right side"
+        },
+        {
+          "id": "preview",
+          "additional_price": null,
+          "title": "Mockup"
+        }
+      ],
+      "type": "EMBROIDERY",
+      "model": "6007 Five-Panel Flat Bill Cap",
+      "id": 91,
+      "image": "https://d1yg28hrivmbqm.cloudfront.net/products/91/product_1412868013.jpg",
+      "brand": "Yupoong",
+      "variant_count": 8,
+      "options": [
+        {
+          "id": "embroidery_type",
+          "type": "select",
+          "additional_price": null,
+          "title": "Embroidery type",
+          "values": {
+            "both": "Partial 3D Puff",
+            "3d": "3D Puff",
+            "flat": "Flat Embroidery"
+          }
+        },
+        {
+          "id": "thread_colors",
+          "type": "multi_select",
+          "additional_price": null,
+          "title": "Flat thread colors",
+          "values": {
+            "#6B5294": 1832,
+            "#000000": 1800,
+            "#CC3366": 19101,
+            "#FFCC00": 1951,
+            "#7BA35A": 1848,
+            "#FFFFFF": 1801,
+            "#E25C27": 1987,
+            "#993333": 1784,
+            "#CC9933": 1725,
+            "#CC3333": 1839,
+            "#333366": 1966,
+            "#99CCCC": 1874,
+            "#96A1A8": 1718,
+            "#01784E": 1751,
+            "#005397": 1842,
+            "#009999": 1695
+          }
+        },
+        {
+          "id": "thread_colors_3d",
+          "type": "multi_select",
+          "additional_price": null,
+          "title": "3D Puff thread colors",
+          "values": {
+            "#6B5294": 1832,
+            "#000000": 1800,
+            "#CC3366": 19101,
+            "#FFCC00": 1951,
+            "#7BA35A": 1848,
+            "#FFFFFF": 1801,
+            "#E25C27": 1987,
+            "#993333": 1784,
+            "#CC9933": 1725,
+            "#CC3333": 1839,
+            "#333366": 1966,
+            "#99CCCC": 1874,
+            "#96A1A8": 1718,
+            "#01784E": 1751,
+            "#005397": 1842,
+            "#009999": 1695
+          }
+        },
+        {
+          "id": "thread_colors_left",
+          "type": "multi_select",
+          "additional_price": null,
+          "title": "Left side thread colors",
+          "values": {
+            "#6B5294": 1832,
+            "#000000": 1800,
+            "#CC3366": 19101,
+            "#FFCC00": 1951,
+            "#7BA35A": 1848,
+            "#FFFFFF": 1801,
+            "#E25C27": 1987,
+            "#993333": 1784,
+            "#CC9933": 1725,
+            "#CC3333": 1839,
+            "#333366": 1966,
+            "#99CCCC": 1874,
+            "#96A1A8": 1718,
+            "#01784E": 1751,
+            "#005397": 1842,
+            "#009999": 1695
+          }
+        },
+        {
+          "id": "thread_colors_right",
+          "type": "multi_select",
+          "additional_price": null,
+          "title": "Right side thread colors",
+          "values": {
+            "#6B5294": 1832,
+            "#000000": 1800,
+            "#CC3366": 19101,
+            "#FFCC00": 1951,
+            "#7BA35A": 1848,
+            "#FFFFFF": 1801,
+            "#E25C27": 1987,
+            "#993333": 1784,
+            "#CC9933": 1725,
+            "#CC3333": 1839,
+            "#333366": 1966,
+            "#99CCCC": 1874,
+            "#96A1A8": 1718,
+            "#01784E": 1751,
+            "#005397": 1842,
+            "#009999": 1695
+          }
+        },
+        {
+          "id": "notes",
+          "type": "text",
+          "additional_price": null,
+          "title": "Embroidery notes",
+          "values": null
+        }
+      ]
+    },
+    {
+      "files": [
+        {
+          "id": "default",
+          "additional_price": null,
+          "title": "Front graphics"
+        },
+        {
+          "id": "left",
+          "additional_price": "3.00",
+          "title": "Left side"
+        },
+        {
+          "id": "right",
+          "additional_price": "3.00",
+          "title": "Right side"
+        },
+        {
+          "id": "preview",
+          "additional_price": null,
+          "title": "Mockup"
+        }
+      ],
+      "type": "EMBROIDERY",
+      "model": "7005 Jockey Flat Bill Cap",
+      "id": 92,
+      "image": "https://d1yg28hrivmbqm.cloudfront.net/products/92/product_1412868014.jpg",
+      "brand": "Yupoong",
+      "variant_count": 7,
+      "options": [
+        {
+          "id": "embroidery_type",
+          "type": "select",
+          "additional_price": null,
+          "title": "Embroidery type",
+          "values": {
+            "both": "Partial 3D Puff",
+            "3d": "3D Puff",
+            "flat": "Flat Embroidery"
+          }
+        },
+        {
+          "id": "thread_colors",
+          "type": "multi_select",
+          "additional_price": null,
+          "title": "Flat thread colors",
+          "values": {
+            "#6B5294": 1832,
+            "#000000": 1800,
+            "#CC3366": 19101,
+            "#FFCC00": 1951,
+            "#7BA35A": 1848,
+            "#FFFFFF": 1801,
+            "#E25C27": 1987,
+            "#993333": 1784,
+            "#CC9933": 1725,
+            "#CC3333": 1839,
+            "#333366": 1966,
+            "#99CCCC": 1874,
+            "#96A1A8": 1718,
+            "#01784E": 1751,
+            "#005397": 1842,
+            "#009999": 1695
+          }
+        },
+        {
+          "id": "thread_colors_3d",
+          "type": "multi_select",
+          "additional_price": null,
+          "title": "3D Puff thread colors",
+          "values": {
+            "#6B5294": 1832,
+            "#000000": 1800,
+            "#CC3366": 19101,
+            "#FFCC00": 1951,
+            "#7BA35A": 1848,
+            "#FFFFFF": 1801,
+            "#E25C27": 1987,
+            "#993333": 1784,
+            "#CC9933": 1725,
+            "#CC3333": 1839,
+            "#333366": 1966,
+            "#99CCCC": 1874,
+            "#96A1A8": 1718,
+            "#01784E": 1751,
+            "#005397": 1842,
+            "#009999": 1695
+          }
+        },
+        {
+          "id": "thread_colors_left",
+          "type": "multi_select",
+          "additional_price": null,
+          "title": "Left side thread colors",
+          "values": {
+            "#6B5294": 1832,
+            "#000000": 1800,
+            "#CC3366": 19101,
+            "#FFCC00": 1951,
+            "#7BA35A": 1848,
+            "#FFFFFF": 1801,
+            "#E25C27": 1987,
+            "#993333": 1784,
+            "#CC9933": 1725,
+            "#CC3333": 1839,
+            "#333366": 1966,
+            "#99CCCC": 1874,
+            "#96A1A8": 1718,
+            "#01784E": 1751,
+            "#005397": 1842,
+            "#009999": 1695
+          }
+        },
+        {
+          "id": "thread_colors_right",
+          "type": "multi_select",
+          "additional_price": null,
+          "title": "Right side thread colors",
+          "values": {
+            "#6B5294": 1832,
+            "#000000": 1800,
+            "#CC3366": 19101,
+            "#FFCC00": 1951,
+            "#7BA35A": 1848,
+            "#FFFFFF": 1801,
+            "#E25C27": 1987,
+            "#993333": 1784,
+            "#CC9933": 1725,
+            "#CC3333": 1839,
+            "#333366": 1966,
+            "#99CCCC": 1874,
+            "#96A1A8": 1718,
+            "#01784E": 1751,
+            "#005397": 1842,
+            "#009999": 1695
+          }
+        },
+        {
+          "id": "notes",
+          "type": "text",
+          "additional_price": null,
+          "title": "Embroidery notes",
+          "values": null
+        }
+      ]
+    },
+    {
+      "files": [
+        {
+          "id": "default",
+          "additional_price": null,
+          "title": "Front graphics"
+        },
+        {
+          "id": "preview",
+          "additional_price": null,
+          "title": "Mockup"
+        }
+      ],
+      "type": "EMBROIDERY",
+      "model": "SP15 Pom Pom Knit Cap",
+      "id": 93,
+      "image": "https://d1yg28hrivmbqm.cloudfront.net/products/93/product_1412868016.jpg",
+      "brand": "Sportsman",
+      "variant_count": 7,
+      "options": [
+        {
+          "id": "embroidery_type",
+          "type": "select",
+          "additional_price": null,
+          "title": "Embroidery type",
+          "values": {
+            "both": "Partial 3D Puff",
+            "3d": "3D Puff",
+            "flat": "Flat Embroidery"
+          }
+        },
+        {
+          "id": "thread_colors",
+          "type": "multi_select",
+          "additional_price": null,
+          "title": "Flat thread colors",
+          "values": {
+            "#6B5294": 1832,
+            "#000000": 1800,
+            "#CC3366": 19101,
+            "#FFCC00": 1951,
+            "#7BA35A": 1848,
+            "#FFFFFF": 1801,
+            "#E25C27": 1987,
+            "#993333": 1784,
+            "#CC9933": 1725,
+            "#CC3333": 1839,
+            "#333366": 1966,
+            "#99CCCC": 1874,
+            "#96A1A8": 1718,
+            "#01784E": 1751,
+            "#005397": 1842,
+            "#009999": 1695
+          }
+        },
+        {
+          "id": "thread_colors_3d",
+          "type": "multi_select",
+          "additional_price": null,
+          "title": "3D Puff thread colors",
+          "values": {
+            "#6B5294": 1832,
+            "#000000": 1800,
+            "#CC3366": 19101,
+            "#FFCC00": 1951,
+            "#7BA35A": 1848,
+            "#FFFFFF": 1801,
+            "#E25C27": 1987,
+            "#993333": 1784,
+            "#CC9933": 1725,
+            "#CC3333": 1839,
+            "#333366": 1966,
+            "#99CCCC": 1874,
+            "#96A1A8": 1718,
+            "#01784E": 1751,
+            "#005397": 1842,
+            "#009999": 1695
+          }
+        },
+        {
+          "id": "notes",
+          "type": "text",
+          "additional_price": null,
+          "title": "Embroidery notes",
+          "values": null
+        }
+      ]
+    },
+    {
+      "files": [
+        {
+          "id": "default",
+          "additional_price": null,
+          "title": "Front print"
+        },
+        {
+          "id": "back",
+          "additional_price": "7.00",
+          "title": "Back print"
+        },
+        {
+          "id": "label",
+          "additional_price": "3.00",
+          "title": "Outside label"
+        },
+        {
+          "id": "preview",
+          "additional_price": null,
+          "title": "Mockup"
+        }
+      ],
+      "type": "T-SHIRT",
+      "model": "3000 Long Sleeve Baseball Jersey T-Shirt",
+      "id": 94,
+      "image": "https://d1yg28hrivmbqm.cloudfront.net/products/94/product_1412943254.jpg",
+      "brand": "Bella + Canvas",
+      "variant_count": 15,
+      "options": []
+    },
+    {
+      "files": [
+        {
+          "id": "default",
+          "additional_price": null,
+          "title": "Front print"
+        },
+        {
+          "id": "back",
+          "additional_price": "7.00",
+          "title": "Back print"
+        },
+        {
+          "id": "label",
+          "additional_price": "3.00",
+          "title": "Inside label"
+        },
+        {
+          "id": "preview",
+          "additional_price": null,
+          "title": "Mockup"
+        }
+      ],
+      "type": "T-SHIRT",
+      "model": "949 Lightweight Fashion Long Sleeve T-Shirt with TearAway™ Label",
+      "id": 96,
+      "image": "https://d1yg28hrivmbqm.cloudfront.net/products/96/product_1414141605.jpg",
+      "brand": "Anvil",
+      "variant_count": 30,
+      "options": []
+    },
+    {
+      "files": [
+        {
+          "id": "default",
+          "additional_price": null,
+          "title": "Front print"
+        },
+        {
+          "id": "back",
+          "additional_price": "7.00",
+          "title": "Back print"
+        },
+        {
+          "id": "label",
+          "additional_price": "3.00",
+          "title": "Inside label"
+        },
+        {
+          "id": "preview",
+          "additional_price": null,
+          "title": "Mockup"
+        }
+      ],
+      "type": "T-SHIRT",
+      "model": "882L Ladies Missy Fit Ringspun Tank Top with TearAway™ Label",
+      "id": 97,
+      "image": "https://d1yg28hrivmbqm.cloudfront.net/products/97/product_1414141606.jpg",
+      "brand": "Anvil",
+      "variant_count": 40,
+      "options": []
+    },
+    {
+      "files": [
+        {
+          "id": "default",
+          "additional_price": null,
+          "title": "Front print"
+        },
+        {
+          "id": "back",
+          "additional_price": "7.00",
+          "title": "Back print"
+        },
+        {
+          "id": "label",
+          "additional_price": "3.00",
+          "title": "Inside label"
+        },
+        {
+          "id": "preview",
+          "additional_price": null,
+          "title": "Mockup"
+        }
+      ],
+      "type": "T-SHIRT",
+      "model": "391 Ladies Sheer Scoopneck T-Shirt with TearAway™ Label",
+      "id": 98,
+      "image": "https://d1yg28hrivmbqm.cloudfront.net/products/98/product_1414141607.jpg",
+      "brand": "Anvil",
+      "variant_count": 60,
+      "options": []
+    },
+    {
+      "files": [
+        {
+          "id": "default",
+          "additional_price": null,
+          "title": "Front graphics"
+        },
+        {
+          "id": "left",
+          "additional_price": "3.00",
+          "title": "Left side"
+        },
+        {
+          "id": "right",
+          "additional_price": "3.00",
+          "title": "Right side"
+        },
+        {
+          "id": "preview",
+          "additional_price": null,
+          "title": "Mockup"
+        }
+      ],
+      "type": "EMBROIDERY",
+      "model": "6089M Wool Blend Flat Bill Snapback Cap",
+      "id": 99,
+      "image": "https://d1yg28hrivmbqm.cloudfront.net/products/99/product_1414581463.jpg",
+      "brand": "Yupoong",
+      "variant_count": 18,
+      "options": [
+        {
+          "id": "embroidery_type",
+          "type": "select",
+          "additional_price": null,
+          "title": "Embroidery type",
+          "values": {
+            "both": "Partial 3D Puff",
+            "3d": "3D Puff",
+            "flat": "Flat Embroidery"
+          }
+        },
+        {
+          "id": "thread_colors",
+          "type": "multi_select",
+          "additional_price": null,
+          "title": "Flat thread colors",
+          "values": {
+            "#6B5294": 1832,
+            "#000000": 1800,
+            "#CC3366": 19101,
+            "#FFCC00": 1951,
+            "#7BA35A": 1848,
+            "#FFFFFF": 1801,
+            "#E25C27": 1987,
+            "#993333": 1784,
+            "#CC9933": 1725,
+            "#CC3333": 1839,
+            "#333366": 1966,
+            "#99CCCC": 1874,
+            "#96A1A8": 1718,
+            "#01784E": 1751,
+            "#005397": 1842,
+            "#009999": 1695
+          }
+        },
+        {
+          "id": "thread_colors_3d",
+          "type": "multi_select",
+          "additional_price": null,
+          "title": "3D Puff thread colors",
+          "values": {
+            "#6B5294": 1832,
+            "#000000": 1800,
+            "#CC3366": 19101,
+            "#FFCC00": 1951,
+            "#7BA35A": 1848,
+            "#FFFFFF": 1801,
+            "#E25C27": 1987,
+            "#993333": 1784,
+            "#CC9933": 1725,
+            "#CC3333": 1839,
+            "#333366": 1966,
+            "#99CCCC": 1874,
+            "#96A1A8": 1718,
+            "#01784E": 1751,
+            "#005397": 1842,
+            "#009999": 1695
+          }
+        },
+        {
+          "id": "thread_colors_left",
+          "type": "multi_select",
+          "additional_price": null,
+          "title": "Left side thread colors",
+          "values": {
+            "#6B5294": 1832,
+            "#000000": 1800,
+            "#CC3366": 19101,
+            "#FFCC00": 1951,
+            "#7BA35A": 1848,
+            "#FFFFFF": 1801,
+            "#E25C27": 1987,
+            "#993333": 1784,
+            "#CC9933": 1725,
+            "#CC3333": 1839,
+            "#333366": 1966,
+            "#99CCCC": 1874,
+            "#96A1A8": 1718,
+            "#01784E": 1751,
+            "#005397": 1842,
+            "#009999": 1695
+          }
+        },
+        {
+          "id": "thread_colors_right",
+          "type": "multi_select",
+          "additional_price": null,
+          "title": "Right side thread colors",
+          "values": {
+            "#6B5294": 1832,
+            "#000000": 1800,
+            "#CC3366": 19101,
+            "#FFCC00": 1951,
+            "#7BA35A": 1848,
+            "#FFFFFF": 1801,
+            "#E25C27": 1987,
+            "#993333": 1784,
+            "#CC9933": 1725,
+            "#CC3333": 1839,
+            "#333366": 1966,
+            "#99CCCC": 1874,
+            "#96A1A8": 1718,
+            "#01784E": 1751,
+            "#005397": 1842,
+            "#009999": 1695
+          }
+        },
+        {
+          "id": "notes",
+          "type": "text",
+          "additional_price": null,
+          "title": "Embroidery notes",
+          "values": null
+        }
+      ]
+    },
+    {
+      "files": [
+        {
+          "id": "default",
+          "additional_price": null,
+          "title": "Front graphics"
+        },
+        {
+          "id": "preview",
+          "additional_price": null,
+          "title": "Mockup"
+        }
+      ],
+      "type": "EMBROIDERY",
+      "model": "6006 Five-Panel Classic Trucker Cap",
+      "id": 100,
+      "image": "https://d1yg28hrivmbqm.cloudfront.net/products/100/product_1414581464.jpg",
+      "brand": "Yupoong",
+      "variant_count": 9,
+      "options": [
+        {
+          "id": "embroidery_type",
+          "type": "select",
+          "additional_price": null,
+          "title": "Embroidery type",
+          "values": {
+            "both": "Partial 3D Puff",
+            "3d": "3D Puff",
+            "flat": "Flat Embroidery"
+          }
+        },
+        {
+          "id": "thread_colors",
+          "type": "multi_select",
+          "additional_price": null,
+          "title": "Flat thread colors",
+          "values": {
+            "#6B5294": 1832,
+            "#000000": 1800,
+            "#CC3366": 19101,
+            "#FFCC00": 1951,
+            "#7BA35A": 1848,
+            "#FFFFFF": 1801,
+            "#E25C27": 1987,
+            "#993333": 1784,
+            "#CC9933": 1725,
+            "#CC3333": 1839,
+            "#333366": 1966,
+            "#99CCCC": 1874,
+            "#96A1A8": 1718,
+            "#01784E": 1751,
+            "#005397": 1842,
+            "#009999": 1695
+          }
+        },
+        {
+          "id": "thread_colors_3d",
+          "type": "multi_select",
+          "additional_price": null,
+          "title": "3D Puff thread colors",
+          "values": {
+            "#6B5294": 1832,
+            "#000000": 1800,
+            "#CC3366": 19101,
+            "#FFCC00": 1951,
+            "#7BA35A": 1848,
+            "#FFFFFF": 1801,
+            "#E25C27": 1987,
+            "#993333": 1784,
+            "#CC9933": 1725,
+            "#CC3333": 1839,
+            "#333366": 1966,
+            "#99CCCC": 1874,
+            "#96A1A8": 1718,
+            "#01784E": 1751,
+            "#005397": 1842,
+            "#009999": 1695
+          }
+        },
+        {
+          "id": "notes",
+          "type": "text",
+          "additional_price": null,
+          "title": "Embroidery notes",
+          "values": null
+        }
+      ]
+    },
+    {
+      "files": [
+        {
+          "id": "default",
+          "additional_price": null,
+          "title": "Front print"
+        },
+        {
+          "id": "back",
+          "additional_price": "7.00",
+          "title": "Back print"
+        },
+        {
+          "id": "label",
+          "additional_price": "3.00",
+          "title": "Outside label"
+        },
+        {
+          "id": "preview",
+          "additional_price": null,
+          "title": "Mockup"
+        }
+      ],
+      "type": "T-SHIRT",
+      "model": "2065 Fine Jersey Muscle T-Shirt",
+      "id": 102,
+      "image": "https://d1yg28hrivmbqm.cloudfront.net/products/102/product_1415202191.jpg",
+      "brand": "American Apparel",
+      "variant_count": 8,
+      "options": []
+    },
+    {
+      "files": [
+        {
+          "id": "default",
+          "additional_price": null,
+          "title": "Front print"
+        },
+        {
+          "id": "back",
+          "additional_price": "7.00",
+          "title": "Back print"
+        },
+        {
+          "id": "label",
+          "additional_price": "3.00",
+          "title": "Outside label"
+        },
+        {
+          "id": "preview",
+          "additional_price": null,
+          "title": "Mockup"
+        }
+      ],
+      "type": "HOODIE",
+      "model": "5297 Youth California Fleece Zip Hoodie",
+      "id": 105,
+      "image": "https://d1yg28hrivmbqm.cloudfront.net/products/105/product_1419256769.jpg",
+      "brand": "American Apparel",
+      "variant_count": 9,
+      "options": []
+    },
+    {
+      "files": [
+        {
+          "id": "default",
+          "additional_price": null,
+          "title": "Front print"
+        },
+        {
+          "id": "back",
+          "additional_price": "7.00",
+          "title": "Back print"
+        },
+        {
+          "id": "label",
+          "additional_price": "3.00",
+          "title": "Outside label"
+        },
+        {
+          "id": "preview",
+          "additional_price": null,
+          "title": "Mockup"
+        }
+      ],
+      "type": "HOODIE",
+      "model": "5197 Kids California Fleece Zip Hoody",
+      "id": 106,
+      "image": "https://d1yg28hrivmbqm.cloudfront.net/products/106/product_1419256770.jpg",
+      "brand": "American Apparel",
+      "variant_count": 9,
+      "options": []
+    },
+    {
+      "files": [
+        {
+          "id": "default",
+          "additional_price": null,
+          "title": "Front print"
+        },
+        {
+          "id": "back",
+          "additional_price": "7.00",
+          "title": "Back print"
+        },
+        {
+          "id": "label",
+          "additional_price": "3.00",
+          "title": "Outside label"
+        },
+        {
+          "id": "preview",
+          "additional_price": null,
+          "title": "Mockup"
+        }
+      ],
+      "type": "T-SHIRT",
+      "model": "6322 Sheer Jersey 2-Sided Top",
+      "id": 107,
+      "image": "https://d1yg28hrivmbqm.cloudfront.net/products/107/product_1419257319.jpg",
+      "brand": "American Apparel",
+      "variant_count": 8,
+      "options": []
+    }
+  ]
+}

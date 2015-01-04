@@ -10,13 +10,10 @@ from printful.tests.helpers import get_fixture
 def test_shipping_rates():
     httpretty.register_uri(
         httpretty.POST,
-        'https://api.theprintful.com/shipping/rates',
+        'https://api.theprintful.com/shipping/rates/',
         body=get_fixture('shipping_de.json'),
         status=200,
         content_type='application/json',
-        forcing_headers={
-            'X-This-Is-A-test': 'yeah'
-        }
     )
 
     response = Client('').post('shipping/rates', data=json.dumps({
@@ -29,6 +26,7 @@ def test_shipping_rates():
         ]
     }))
 
+    assert httpretty.last_request().path == '/shipping/rates/'
+
     assert response.status_code == 200
-    assert response.headers['X-This-Is-A-test'] == 'yeah'
     assert len(response.json()['result']) == 3

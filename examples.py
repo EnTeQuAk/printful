@@ -83,16 +83,16 @@ try:
 #     ))
 
 
-    #Calculate shipping rates for an order
-    pprint(client.post('shipping/rates', data=json.dumps({
-        'recipient': {
-            'country_code': 'DE',
-        },
-        'items': [
-           {'variant_id': 1, 'quantity': 1}, #Small poster
-           {'variant_id': 1118, 'quantity': 2} #Alternative T-Shirt
-        ]
-    })).json())
+    # #Calculate shipping rates for an order
+    # pprint(client.post('shipping/rates', data=json.dumps({
+    #     'recipient': {
+    #         'country_code': 'DE',
+    #     },
+    #     'items': [
+    #        {'variant_id': 1, 'quantity': 1}, #Small poster
+    #        {'variant_id': 1118, 'quantity': 2} #Alternative T-Shirt
+    #     ]
+    # })).json())
 
 
 except PrintfulApiException as e:
