@@ -66,7 +66,7 @@ class Client(requests.Session):
             'headers': headers,
         })
 
-        full_url = urllib.parse.urljoin(Client.API_URL, url).rstrip('/') + '/'
+        full_url = urllib.parse.urljoin(Client.API_URL, url).rstrip('/')
 
         # TODO: Error handling
         return super(Client, self).request(method, full_url, *args, **kwargs)
