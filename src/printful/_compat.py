@@ -34,9 +34,9 @@ def force_text(s, encoding='utf-8', errors='strict'):
             else:
                 s = text_type(bytes(s), encoding, errors)
         else:
-            # Note: We use .decode() here, instead of six.text_type(s, encoding,
-            # errors), so that if s is a SafeBytes, it ends up being a
-            # SafeText at the end.
+            # Note: We use .decode() here, instead of
+            # six.text_type(s, encoding, # errors), so that if `s` is a
+            # SafeBytes, it ends up being a # SafeText at the end.
             s = s.decode(encoding, errors)
     except UnicodeDecodeError as e:
         if not isinstance(s, Exception):

@@ -1,1 +1,1 @@
-from .client import Client, PrintfulApiException
+from .client import Client, PrintfulApiException  # noqa

@@ -37,23 +37,24 @@ try:
     # #pprint(client.delete('orders/12345'))
 
     # #Create an order
-    pprint(client.post('orders', data=json.dumps({
-        'recipient': {
-            'name': 'John Doe',
-            'address1': '172 W Providencia Ave #105',
-            'city': 'Burbank',
-            'state_code': 'CA',
-            'country_code': 'US',
-            'zip': '91502'
-        },
-        'items': [{
-            'variant_id': 1,
-            'quantity': 1,
-            'files': [{
-                'url': 'http://example.com/files/posters/poster_1.jpg'
-            }]
-        }]
-    })).json())
+    # pprint(client.post('orders', data=json.dumps({
+    #     'recipient': {
+    #         'name': 'John Doe',
+    #         'address1': '172 W Providencia Ave #105',
+    #         'city': 'Berlin',
+    #         'country_code': 'DE',
+    #         'zip': '10437'
+    #     },
+    #     'items': [{
+    #         'variant_id': 1,
+    #         'quantity': 1,
+    #         'name': 'Niagara Falls poster',
+    #         'retail_price': '19.99',
+    #         'files': [{
+    #             'url': 'http://example.com/files/posters/poster_1.jpg'
+    #         }]
+    #     }]
+    # })).json())
 
     #Create an order and confirm immediately
 #     pprint(client.post('orders',
@@ -83,16 +84,15 @@ try:
 
 
     #Calculate shipping rates for an order
-#     pprint(client.post('shipping/rates',{
-#         'recipient': {
-#             'country_code': 'US',
-#             'state_code': 'CA'
-#         },
-#         'items': [
-#            {'variant_id': 1, 'quantity': 1}, #Small poster
-#            {'variant_id': 1118, 'quantity': 2} #Alternative T-Shirt
-#         ]
-#     }))
+    pprint(client.post('shipping/rates', data=json.dumps({
+        'recipient': {
+            'country_code': 'DE',
+        },
+        'items': [
+           {'variant_id': 1, 'quantity': 1}, #Small poster
+           {'variant_id': 1118, 'quantity': 2} #Alternative T-Shirt
+        ]
+    })).json())
 
 
 except PrintfulApiException as e:

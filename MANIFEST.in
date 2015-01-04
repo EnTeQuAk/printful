@@ -1,0 +1,5 @@
+include CHANGELOG.rst README.rst LICENSE
+recursive-include docs *
+global-exclude *.pyc
+global-exclude *.pyo
+prune docs/_build

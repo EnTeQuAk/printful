@@ -16,7 +16,6 @@ test_requires = [
     'tox>=1.8,<1.9',
     'py>=1.4.26,<1.5',
     'pytest>=2.6.4,<2.7',
-    'pytest-django>=2.7,<2.8',
 
     # Pep8 and code quality checkers
     'pyflakes>=0.8.1,<0.9',
@@ -28,8 +27,7 @@ test_requires = [
     'coverage>=3.7.1,<3.8',
 
     # Fixtures, test helpers
-    'factory-boy>=2.4.1,<2.5',
-    'mock>=1.0.1,<1.1',
+    'httpretty>=0.8.3,<0.9',
 ]
 
 

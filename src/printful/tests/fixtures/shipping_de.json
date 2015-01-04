@@ -1,0 +1,20 @@
+{
+  "code": 200,
+  "result": [
+    {
+      "id": "APC_PARCEL_CONNECT",
+      "name": "Int'l Economy without tracking (10-20 business days after fulfillment)",
+      "rate": "9.38"
+    },
+    {
+      "id": "APC_PARCEL_CONFIRM",
+      "name": "Int'l Economy with tracking (7-16 business days after fulfillment)",
+      "rate": "19.16"
+    },
+    {
+      "id": "STANDARD",
+      "name": "Standard without tracking (10-20 business days after fulfillment)",
+      "rate": "25.95"
+    }
+  ]
+}
