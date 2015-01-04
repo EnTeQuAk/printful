@@ -1,9 +1,10 @@
+from __future__ import unicode_literals
 import json
-import urllib
 from base64 import b64encode
 
 import requests
-from requests.utils import to_native_string
+
+from printful._compat import urllib, force_text, force_bytes
 
 
 class PrintfulException(Exception):
@@ -26,7 +27,7 @@ class Response(object):
         self.data = data
 
     def item_count(self):
-        if (self.data and 'paging' in self.data):
+        if (self.data and u'paging' in self.data):
             return self.data['paging']['total']
         else:
             return None
@@ -34,10 +35,10 @@ class Response(object):
 
 class HTTPBasicKeyAuth(requests.auth.AuthBase):
     def __init__(self, key):
-        self.key = bytes(key, 'utf-8')
+        self.key = force_bytes(key, 'utf-8')
 
     def __call__(self, request):
-        auth = 'Basic ' + to_native_string(b64encode(self.key))
+        auth = 'Basic ' + force_text(b64encode(self.key))
         request.headers['Authorization'] = auth
 
         return request
