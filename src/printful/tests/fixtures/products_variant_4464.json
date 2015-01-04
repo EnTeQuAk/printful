@@ -1,0 +1,36 @@
+{
+  "code": 200,
+  "result": {
+    "variant": {
+      "id": 4464,
+      "product_id": 1,
+      "name": "Poster 12×12",
+      "size": "12×12",
+      "color": null,
+      "color_code": null,
+      "image": "https://d1yg28hrivmbqm.cloudfront.net/products/1/4464.jpg",
+      "price": "9.00"
+    },
+    "product": {
+      "id": 1,
+      "type": "POSTER",
+      "brand": null,
+      "model": "Poster",
+      "image": "https://d1yg28hrivmbqm.cloudfront.net/products/poster_18x24.jpg",
+      "variant_count": 9,
+      "files": [
+        {
+          "id": "default",
+          "title": "Print file",
+          "additional_price": null
+        },
+        {
+          "id": "preview",
+          "title": "Mockup",
+          "additional_price": null
+        }
+      ],
+      "options": []
+    }
+  }
+}

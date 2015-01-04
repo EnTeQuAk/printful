@@ -1,0 +1,118 @@
+{
+  "code": 200,
+  "result": {
+    "product": {
+      "id": 1,
+      "type": "POSTER",
+      "brand": null,
+      "model": "Poster",
+      "image": "https://d1yg28hrivmbqm.cloudfront.net/products/poster_18x24.jpg",
+      "variant_count": 9,
+      "files": [
+        {
+          "id": "default",
+          "title": "Print file",
+          "additional_price": null
+        },
+        {
+          "id": "preview",
+          "title": "Mockup",
+          "additional_price": null
+        }
+      ],
+      "options": []
+    },
+    "variants": [
+      {
+        "id": 4464,
+        "product_id": 1,
+        "name": "Poster 12×12",
+        "size": "12×12",
+        "color": null,
+        "color_code": null,
+        "image": "https://d1yg28hrivmbqm.cloudfront.net/products/1/4464.jpg",
+        "price": "9.00"
+      },
+      {
+        "id": 1349,
+        "product_id": 1,
+        "name": "Poster 12×16",
+        "size": "12×16",
+        "color": null,
+        "color_code": null,
+        "image": "https://d1yg28hrivmbqm.cloudfront.net/products/1/1349.jpg",
+        "price": "11.00"
+      },
+      {
+        "id": 3876,
+        "product_id": 1,
+        "name": "Poster 12×18",
+        "size": "12×18",
+        "color": null,
+        "color_code": null,
+        "image": "https://d1yg28hrivmbqm.cloudfront.net/products/1/3876.jpg",
+        "price": "11.50"
+      },
+      {
+        "id": 4465,
+        "product_id": 1,
+        "name": "Poster 16×16",
+        "size": "16×16",
+        "color": null,
+        "color_code": null,
+        "image": "https://d1yg28hrivmbqm.cloudfront.net/products/1/4465.jpg",
+        "price": "11.75"
+      },
+      {
+        "id": 3877,
+        "product_id": 1,
+        "name": "Poster 16×20",
+        "size": "16×20",
+        "color": null,
+        "color_code": null,
+        "image": "https://d1yg28hrivmbqm.cloudfront.net/products/1/3877.jpg",
+        "price": "12.00"
+      },
+      {
+        "id": 1,
+        "product_id": 1,
+        "name": "Poster 18×24",
+        "size": "18×24",
+        "color": null,
+        "color_code": null,
+        "image": "https://d1yg28hrivmbqm.cloudfront.net/products/poster_18x24.jpg",
+        "price": "13.00"
+      },
+      {
+        "id": 2,
+        "product_id": 1,
+        "name": "Poster 24×36",
+        "size": "24×36",
+        "color": null,
+        "color_code": null,
+        "image": "https://d1yg28hrivmbqm.cloudfront.net/products/poster_24x36.jpg",
+        "price": "18.00"
+      },
+      {
+        "id": 1378,
+        "product_id": 1,
+        "name": "Poster 44×44",
+        "size": "44×44",
+        "color": null,
+        "color_code": null,
+        "image": "https://d1yg28hrivmbqm.cloudfront.net/products/1/1378.jpg",
+        "price": "44.00"
+      },
+      {
+        "id": 4463,
+        "product_id": 1,
+        "name": "Poster 8×10",
+        "size": "8×10",
+        "color": null,
+        "color_code": null,
+        "image": "https://d1yg28hrivmbqm.cloudfront.net/products/1/4463.jpg",
+        "price": "7.00"
+      }
+    ]
+  }
+}
