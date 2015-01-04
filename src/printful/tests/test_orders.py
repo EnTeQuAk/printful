@@ -23,7 +23,7 @@ def test_orders():
 
 
 @httpretty.activate
-def test_orders_paginated():
+def test_orders_paginated_offset():
     httpretty.register_uri(
         httpretty.GET,
         'https://api.theprintful.com/orders?offset=5',
@@ -41,4 +41,26 @@ def test_orders_paginated():
         'total': 7,
         'offset': 5,
         'limit': 20
+    }
+
+
+@httpretty.activate
+def test_orders_paginated_limit():
+    httpretty.register_uri(
+        httpretty.GET,
+        'https://api.theprintful.com/orders?limit=1',
+        body=get_fixture('orders_limit_1.json'),
+        status=200,
+        content_type='application/json',
+    )
+
+    response = Client('').get('orders', params={'limit': 1})
+
+    assert httpretty.last_request().path == '/orders?limit=1'
+
+    assert response.status_code == 200
+    assert response.json()['paging'] == {
+        'total': 7,
+        'offset': 0,
+        'limit': 1
     }

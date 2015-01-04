@@ -1,0 +1,86 @@
+{
+  "code": 200,
+  "result": [
+    {
+      "id": 125700,
+      "external_id": null,
+      "status": "draft",
+      "shipping": "STANDARD",
+      "created": 1420325470,
+      "updated": 1420325470,
+      "recipient": {
+        "name": "John Doe",
+        "company": null,
+        "address1": "172 W Providencia Ave #105",
+        "address2": null,
+        "city": "Berlin",
+        "state_code": null,
+        "state_name": null,
+        "country_code": "DE",
+        "country_name": "Germany",
+        "zip": "10437",
+        "phone": null,
+        "email": null
+      },
+      "items": [
+        {
+          "id": 174548,
+          "external_id": null,
+          "variant_id": 1,
+          "quantity": 1,
+          "price": "13.00",
+          "retail_price": "19.99",
+          "name": "Niagara Falls poster",
+          "product": {
+            "variant_id": 1,
+            "product_id": 1,
+            "image": "https:\\/\\/d1yg28hrivmbqm.cloudfront.net\\/products\\/poster_18x24.jpg",
+            "name": "Poster 18\\u00d724"
+          },
+          "files": [
+            {
+              "id": 226068,
+              "type": "default",
+              "hash": null,
+              "url": "http:\\/\\/example.com\\/files\\/posters\\/poster_1.jpg",
+              "filename": "poster_1.jpg",
+              "mime_type": null,
+              "size": 0,
+              "width": null,
+              "height": null,
+              "dpi": null,
+              "status": "failed",
+              "created": 1420325469,
+              "thumbnail_url": null,
+              "preview_url": null,
+              "visible": false
+            }
+          ],
+          "options": []
+        }
+      ],
+      "costs": {
+        "subtotal": "13.00",
+        "discount": "0.00",
+        "shipping": "14.95",
+        "digitization": "0.00",
+        "tax": "0.00",
+        "total": "27.95"
+      },
+      "retail_costs": {
+        "subtotal": "19.99",
+        "discount": "0.00",
+        "shipping": "14.95",
+        "tax": "0.00",
+        "total": "34.94"
+      },
+      "shipments": [],
+      "notes": null
+    }
+  ],
+  "paging": {
+    "total": 7,
+    "offset": 0,
+    "limit": 1
+  }
+}
