@@ -37,8 +37,8 @@ class HTTPBasicKeyAuth(requests.auth.AuthBase):
         self.key = bytes(key, 'utf-8')
 
     def __call__(self, request):
-        request.headers['Authorization'] = 'Basic ' + to_native_string(
-            b64encode(self.key))
+        auth = 'Basic ' + to_native_string(b64encode(self.key))
+        request.headers['Authorization'] = auth
 
         return request
 
