@@ -36,6 +36,7 @@ test_requires = [
 install_requires = [
     # General dependencies
     'requests>=2.5.0,<2.6',
+    'six>=1.9.0',
 ]
 
 
@@ -66,11 +67,20 @@ setup(
     zip_safe=False,
     license='ISC',
     classifiers=[
-        '__DO NOT UPLOAD__',
-        'Development Status :: 2 - Pre-Alpha',
+        'Development Status :: 3 - Alpha',
+        'Environment :: Web Environment',
         'Intended Audience :: Developers',
-        'Natural Language :: English',
+        'License :: OSI Approved :: ISC License (ISCL)',
+        'Operating System :: OS Independent',
+        'Programming Language :: Python',
+        'Topic :: Software Development :: Libraries :: Python Modules',
+        'Programming Language :: Python :: 2',
+        'Programming Language :: Python :: 2.6',
+        'Programming Language :: Python :: 2.7',
         'Programming Language :: Python :: 3',
+        'Programming Language :: Python :: 3.3',
         'Programming Language :: Python :: 3.4',
+        'Programming Language :: Python :: Implementation :: PyPy',
+        'Programming Language :: Python :: Implementation :: CPython',
     ],
 )
